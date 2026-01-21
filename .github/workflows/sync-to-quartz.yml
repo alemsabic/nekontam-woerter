@@ -1,0 +1,54 @@
+name: Sync Content to Quartz
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout content repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Checkout Quartz repository
+        uses: actions/checkout@v4
+        with:
+          repository: alemsabic/nekontam-site
+          token: ${{ secrets.QUARTZ_REPO_TOKEN }}
+          path: quartz-repo
+          ref: v4
+
+      - name: Sync content files
+        run: |
+          # Remove old content (except .gitkeep, .obsidian, and README.md)
+          find quartz-repo/content -mindepth 1 -maxdepth 1 -not -name '.gitkeep' -not -name '.obsidian' -not -name 'README.md' -exec rm -rf {} +
+
+          # Copy only markdown files and folders (exclude repo metadata)
+          # --copy-links: Follow symlinks and copy actual files (needed for bibliography.bib)
+          rsync -av --copy-links --exclude='.git*' --exclude='.github' --exclude='SETUP-TOKEN.md' --exclude='CLAUDE.md' --exclude='README.md' --exclude='quartz-repo' ./ quartz-repo/content/
+
+      - name: Commit and push changes
+        run: |
+          cd quartz-repo
+          git config user.name "Content Sync Bot"
+          git config user.email "noreply@github.com"
+
+          # Check if there are changes
+          if [[ -n $(git status -s) ]]; then
+            git add content/
+            git commit -m "content: sync from content repo
+
+            Auto-synced from nekontam.com content repository
+
+            🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+            Co-Authored-By: Claude <noreply@anthropic.com>"
+            git push
+          else
+            echo "No changes to commit"
+          fi
