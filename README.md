@@ -1,3 +1,8 @@
+---
+draft: true
+---
+
+
 # nekontam.com - Content Repository
 
 Bosnisch-Deutsches Wörterbuch.
