@@ -10,7 +10,6 @@ Bosnisch-Deutsches Wörterbuch.
 ## Struktur
 
 - Markdown-Einträge für Wörter
-- `bibliography.bib` - Quellenangaben
 - `Abbildungen/` - Bilder
 
 ## Workflow
