@@ -1,9 +1,12 @@
 ---
-title: "gpunkt.org"
+showContentHeader: false
+comments: false
 ---
 
-# Bosnisch-Deutsches Wörterbuch
+# Reizwärter
 
-Willkommen auf gpunkt.org.
+## Der Duden für die dunklen Ecken der Sprache.
+
+Willkommen auf **gpunkt.org: Sprache ohne Filter.**
 
 Diese Seite ist im Aufbau.
