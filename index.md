@@ -1,21 +1,16 @@
 ---
+title: Der Duden für die dunklen Ecken der Sprache
+language: de
+cssclasses: first-page
 showContentHeader: false
 comments: false
 ---
 
 # Der Duden für die dunklen Ecken der Sprache
 
-Wörterbücher beschreiben eine Sprache, die keiner spricht. 
+Sprache ist  Macht. Worte entzweien Brüder, zerstören Ehen, setzen Kriege in Gang. Worte demütigen: Wenn dich einer "Fickfehler" nennt, dann reduziert er deine Existenz auf einen elterlichen Biologieunfall. Worte schmähen: Wenn dich einer "[[Sozialtourismus | Sozialtourist]]" nennt, dann deutet er deine Not um in Betrug.  Worte maskieren: Aus Schulden werden Reichtümer, das nennt sich "Sondervermögen". Worte kostümieren: Stell dir eine Müllhalde vor - und jetzt einen Park (hörst du die Vögel zwitschern?) - aber hättest du geglaubt, dass jemand auf die Idee käme, daraus einen "Entsorgungspark" zu machen? Eine Halde Zivilisationsabfall bekommt eine Aura von Landschaftsarchitektur. Wow! 
 
-Gesprochen und mit Sprache gekämpft dagegen wird in Kommentarspalten, im Parlament, auf dem Schulhof. 
-
-Wenn dich einer "Fickfehler" nennt, dann reduziert er dich auf einen elterlichen Biologieunfall. Wenn dich einer "[[Sozialtourismus | Sozialtourist]]" nennt, dann deutet er deine Not um in Betrug. 
-
-Sprache schafft sogar Wunder und macht aus Schulden Reichtümer - nennt sich dann "Sondervermögen". Oder sie verbiegt die Realität: Stell dir einen Park vor - und jetzt einen Haufen Müll - aber hättest du jemals geglaubt, dass jemand auf die Idee käme, daraus einen "Entsorgungspark" zu machen? Eine Halde voller Zivilisationsabfall bekommt eine Aura von Landschaftsarchitektur. Wow.
-
-Hier gehts um die hässlichsten Wörter der Gossensprache, um politische Kampfbegriffe, um dreiste Markting-Lügen. 
-
-Nicht, wie Sprache sein sollte. Sondern, wie sie ist. Ganz egal, ob du das willst oder nicht: "[[alternativlos]]", sozusagen.
+Von der Gosse über den Schulhof bis zum Palament - überall, wo mit Sprache gekämpft wird, beleidigt und verführt - wird's interessant. Sprache, ganz so, wie sie ist. Nicht, wie sie sein sollte.
 
 Viel Spaß.
 
