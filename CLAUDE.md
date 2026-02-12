@@ -1,19 +1,56 @@
 # WÖRTER - gpunkt.org Content
 
 **Repository:** Content-Quelle für gpunkt.org (Reizwörterbuch)
+**GitHub:** https://github.com/alemsabic/gpunkt-woerter (public)
 **Site-Repo:** `/Users/alemsabic/Desktop/gpunkt.org`
 **Ziel:** Politische Reizwörter dokumentieren — verifizierte Quellen, wissenschaftliche Mechanismus-Analyse.
+
+## ⚠️ REPO-STRUKTUR
+
+`wort-fabrik/` ist ein **eigenständiges privates Repository** innerhalb dieses Repos:
+- **GitHub:** https://github.com/alemsabic/wort-fabrik (private)
+- **Lokal:** `/Users/alemsabic/Desktop/MEMEX/WÖRTER/wort-fabrik/`
+- In `.gitignore` von WÖRTER ausgeschlossen — **niemals** in gpunkt-woerter commiten!
+- Eigene `git`-Befehle: immer erst `cd wort-fabrik/` dann commiten/pushen
 
 ## 🔥 NÄCHSTER SCHRITT
 
 **Trigger:** *"Claude, vieux copain, what's on the plate"*
 
-**SICHTEN-Workflow fertigstellen** — der komplette Pipeline-Schritt SCAN → SICHTEN → DRAFT → Zotero muss lückenlos funktionieren:
+**DRAFT.md repariert** ✓ — 5 strukturelle Probleme behoben:
 
-1. **SICHTEN.md testen:** `DIP-Gutmensch.md` + `SICHTEN.md` in Claude-Chat → `KONTEXT-Gutmensch.md` erzeugen → Format kritisch prüfen, bis es perfekt ist
-2. **DRAFT.md-Anschluss prüfen:** KONTEXT-Datei direkt in DRAFT.md einspeisen — passt der Workflow? Müssen Phasen A–E angepasst werden?
-3. **`to_zotero.bib` klären:** Append-Logik (mehrere Begriffe akkumulieren), Format stimmt mit v5.2 überein, fertig zum Zotero-Import
-4. **Kompletten Lauf dokumentieren:** Wenn alles passt, HANDBUCH.md aktualisieren
+1. ✅ Belege-Beispiel im Template → Placeholder (keine Halluzinations-Einladung mehr)
+2. ✅ KONTEXT-Material raus aus DRAFT-Chat → saubere Trennung Schreiben / Belege
+3. ✅ "Anwendung" → "Perspektivenwechsel" durchgezogen (5 Stellen)
+4. ✅ "Entlarvung" → "Aufdeckung" im Philosophie-Abschnitt
+5. ⏳ Sozialtourismus-Priming → zweites Referenzbeispiel, wenn Gutmensch-Eintrag fertig
+
+**Nächste Schritte:**
+1. **DRAFT.md-Testlauf mit "Gutmensch":**
+   - Neuen Claude-Chat öffnen
+   - `wort-fabrik/DRAFT.md` einfügen, Begriff = `Gutmensch`
+   - Phasen A → B → C → D → E sequenziell durchlaufen — nach jeder Phase stoppen, Zusammenfassung lesen, bestätigen
+   - Outputs landen in: `Recherche/Gutmensch/PHASE-A-Lexikalisch.md`, `PHASE-B-Historisch.md`, `PHASE-C-Diskurs.md`, `PHASE-D-Mechanismen.md`
+   - First Draft landet in: `Drafts/Gutmensch-draft.md`
+   - **Dann kritisch prüfen:** Recherche-Dateien A–D — was ist gut, was fehlt, was ist falsch? Draft — stimmt die Struktur? Ist der Perspektivenwechsel überzeugend? Sind Belege sauber als Placeholder?
+   - Erkenntnisse → DRAFT.md weiter verbessern
+2. `to_zotero.bib` klären: Append-Logik, Format v5.2, Zotero-Import
+3. Kompletten Lauf dokumentieren: HANDBUCH.md aktualisieren
+
+---
+
+## ⏳ WARTEN AUF TEST
+
+- **SCAN.py `sprecher_info`-Fix:** Zeigt jetzt Partei *und* Funktion wenn beides vorhanden (`CDU/CSU, Bundesministerin der Verteidigung`). → Im DIP-Output prüfen.
+
+---
+
+## 🧠 SYSTEM-PRINZIP
+
+**Quick Fix vs. Am System arbeiten:**
+Wenn ein Output-Fehler auftritt, nicht die Output-Datei korrigieren — herausfinden, welche Instruktion in welchem Prompt-Dokument den Fehler *ermöglicht* hat, und das Dokument selbst fixen.
+
+Konkretes Beispiel: `[X]` als Zahlen-Platzhalter und `[A]`/`[K]` als Literal-Labels in derselben Zeile — visuell identische Notation, zwei verschiedene Bedeutungen. KI wendet konsistent die falsche Regel an. Fix: unterschiedliche Notation (`N` für Zahlen, eckige Klammern nur für Literal-Labels).
 
 ---
 
@@ -106,4 +143,4 @@ In SCAN.py: `address`/`organization` sind Parameter in `generate_bibtex()`, Defa
 
 ---
 
-*Letzte Aktualisierung: 2026-02-11*
+*Letzte Aktualisierung: 2026-02-12*
