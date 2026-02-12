@@ -107,8 +107,13 @@ def extract_top_title(rede_elem, parent_map):
         return ""
 
     title = ' '.join(title_parts)
-    # Führende Ziffer entfernen (z.B. "2 Erste Beratung..." → "Erste Beratung...")
-    title = re.sub(r'^\d+\s+', '', title)
+    # Führende Strukturlabels entfernen:
+    #   "2 Erste Beratung..."  → "Erste Beratung..."
+    #   "28. Beratung..."      → "Beratung..."
+    #   "9. a) Beratung..."    → "Beratung..."
+    #   "– Zweite Beratung..." → "Zweite Beratung..."
+    title = re.sub(r'^[–\-\s]+', '', title)
+    title = re.sub(r'^\d+\.?\s+([a-zA-Z]\)\s+)?', '', title)
     # Abschließenden Doppelpunkt entfernen
     title = title.rstrip(': \t')
     # Ersten Buchstaben großschreiben (Fragmente wie "auf Verlangen..." → "Auf Verlangen...")
@@ -405,7 +410,7 @@ def write_output(term, quotes):
             lines.append(f"**Seiten:** {q['pages']}")
         lines.append(f"**PDF:** {q['pdf_url']}")
         lines.append("")
-        lines.append(f"\u201e{q['context']}\u201c")
+        lines.append(f"\u00bb{q['context']}\u00ab")
         lines.append("")
         lines.append(f"**Citekey:** `{q['citekey']}`")
         lines.append("")
