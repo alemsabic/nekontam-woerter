@@ -39,10 +39,6 @@
 
 ---
 
-## ⏳ WARTEN AUF TEST
-
-- **SCAN.py `sprecher_info`-Fix:** Zeigt jetzt Partei *und* Funktion wenn beides vorhanden (`CDU/CSU, Bundesministerin der Verteidigung`). → Im DIP-Output prüfen.
-
 ---
 
 ## 🧠 SYSTEM-PRINZIP
