@@ -2,155 +2,108 @@
 
 **Repository:** Content-Quelle für gpunkt.org (Reizwörterbuch)
 **Site-Repo:** `/Users/alemsabic/Desktop/gpunkt.org`
-**Sync:** Auto-sync via GitHub Actions → `gpunkt-site/content/`
-
-**Ziel:** Politische Reizwörter dokumentieren - mit verifizierten Quellen, wissenschaftlicher Mechanismus-Analyse.
-
----
+**Ziel:** Politische Reizwörter dokumentieren — verifizierte Quellen, wissenschaftliche Mechanismus-Analyse.
 
 ## 🔥 NÄCHSTER SCHRITT
 
 **Trigger:** *"Claude, vieux copain, what's on the plate"*
 
-### ZIEL: 30-MINUTEN-WORKFLOW
+**SICHTEN-Workflow fertigstellen** — der komplette Pipeline-Schritt SCAN → SICHTEN → DRAFT → Zotero muss lückenlos funktionieren:
 
-Die Fabrik ist fertig. Jetzt testen wir sie an "Sozialtourismus" — erster vollständiger Durchlauf.
-
-**Warum 30 Minuten realistisch ist:**
-
-| Schritt | Zeit | Wer |
-|---|---|---|
-| 1-SCAN läuft im Hintergrund | ~10 min | passiv |
-| 2-SICHTEN → KONTEXT-MATERIAL | ~3 min | AI |
-| 3-DRAFT-THIS → Draft | ~4 min | AI |
-| Belege manuell einsetzen | ~5-8 min | Mensch |
-| Zotero Import | ~3 min | Mensch |
-| 5-VERIFY + git push | ~2 min | Mensch |
-
-**Aktive Zeit: ~15-20 min. Mit Scan im Hintergrund: unter 30 min.**
-(Mit Edit-Schritt: +10-15 min → ~40-45 min, für Goldstandard-Qualität.)
-
-**Trick:** Scan starten → sofort mit 2-SICHTEN beginnen (Scan läuft parallel).
+1. **SICHTEN.md testen:** `DIP-Gutmensch.md` + `SICHTEN.md` in Claude-Chat → `KONTEXT-Gutmensch.md` erzeugen → Format kritisch prüfen, bis es perfekt ist
+2. **DRAFT.md-Anschluss prüfen:** KONTEXT-Datei direkt in DRAFT.md einspeisen — passt der Workflow? Müssen Phasen A–E angepasst werden?
+3. **`to_zotero.bib` klären:** Append-Logik (mehrere Begriffe akkumulieren), Format stimmt mit v5.2 überein, fertig zum Zotero-Import
+4. **Kompletten Lauf dokumentieren:** Wenn alles passt, HANDBUCH.md aktualisieren
 
 ---
 
-**Status Sozialtourismus:**
-- ✅ DIP-Scan abgeschlossen: `Recherche/Sozialtourismus/DIP-Sozialtourismus.md` (23 Zitate, 2014–2025)
-- ⬜ KONTEXT-MATERIAL (2-SICHTEN.md)
-- ⬜ Draft (3-DRAFT-THIS.md)
-- ⬜ Belege einsetzen + Zotero
-- ⬜ 5-VERIFY + git push
+## 📋 WORKFLOW
 
-**Nächste Aktion:** `2-SICHTEN.md` öffnen, `DIP-Sozialtourismus.md` einfügen, KONTEXT-MATERIAL generieren.
-
----
-
-## 📋 DER WORKFLOW (4 Schritte)
+```bash
+python3 wort-fabrik/SCAN.py "Begriff"   # ~10 min, läuft im Hintergrund
+```
+Dann: `SICHTEN.md` + DIP-Datei → `KONTEXT-[Begriff].md` → `DRAFT.md` (Phasen A–E) → `EDIT.md` (optional) → Zotero → `VERIFY.py`
 
 **Vollständige Dokumentation:** `wort-fabrik/HANDBUCH.md`
-
-### Schritt 1: SCAN
-```bash
-python3 wort-fabrik/1-SCAN.py "Begriff"
-```
-→ Scannt alle ~4600 BT-Protokolle, Output: `Recherche/[Begriff]/DIP-[Begriff].md`
-
-### Schritt 2: SICHTEN
-- `2-SICHTEN.md` + DIP-Datei → KI wählt 8-10 beste Zitate
-- Output: KONTEXT-MATERIAL Block → in `3-DRAFT-THIS.md` einfügen
-
-### Schritt 3: DRAFT
-- `3-DRAFT-THIS.md` mit KONTEXT-MATERIAL an KI → vollständiger Draft
-- Belege-Sektion bleibt Placeholder
-
-### Schritt 4: EDIT (optional)
-- `4-EDIT-THIS.md` → Polishing bis Goldstandard
-
-**Danach:** BibTeX → Zotero → `5-VERIFY.py` → `git push`
 
 ---
 
 ## ⚠️ CRITICAL RULES
 
-### BibTeX Format für Bundestag-Zitate
+### BibTeX Format
 
-**Citekey:** `autor_jahr` (lowercase, Unterstrich)
-- ✅ `merkel_2010`, `höcke_2018`, `weidel_2025`
-- ❌ `Merkel2010`, `merkel-2010`
+**Citekey:** `autor_jahr_monat_tag` (lowercase, zero-padded)
+- ✅ `springer_2018_06_28`, `schaeuble_2014_04_08`
+- Kollisionssicher: ein Politiker hält pro Sitzungstag eine Rede
 
-**Note-Field:** `Plenarprotokoll XX/YY` (KEINE Seitenzahlen!)
-- ✅ `note = {Plenarprotokoll 20/73}`
-- ❌ `note = {Seite 8537A}`
-- **Grund:** XML-Struktur änderte sich 2022
+**Zotero Better BibTeX** (Einstellungen → Better BibTeX → Citation key formula):
+```
+auth.lower + "_" + date('%Y_%m_%d')
+```
+
+**Pflichtfelder:**
+
+| Feld | Inhalt |
+|---|---|
+| `title` | TOP-Titel aus XML (Fallback: `Rede im Deutschen Bundestag (Plenarprotokoll XX/YY)`) |
+| `address` | parlamentsspezifisch (siehe Tabelle unten) |
+| `organization` | parlamentsspezifisch (siehe Tabelle unten) |
+| `number` | `18/73` (Wahlperiode/Dokumentnummer) |
+| `pages` | `7012A--7014C` |
+| `note` | `Plenarprotokoll XX/YY` |
+
+**Parlamente:**
+| Parlament | `address` | `organization` |
+|---|---|---|
+| Bundestag | `Berlin` | `Deutscher Bundestag` |
+| Bundesrat | `Berlin` | `Bundesrat` |
+| Bayerischer Landtag | `München` | `Bayerischer Landtag` |
+| Landtag NRW | `Düsseldorf` | `Landtag Nordrhein-Westfalen` |
+| Sächsischer Landtag | `Dresden` | `Sächsischer Landtag` |
+| Europaparlament | `Straßburg` | `Europäisches Parlament` |
+
+In SCAN.py: `address`/`organization` sind Parameter in `generate_bibtex()`, Default `Berlin`/`Deutscher Bundestag`.
 
 ### Keine Sekundärquellen
 - ✅ Bundestag-Protokolle, Original-Videos, Qualitätsmedien mit wörtlicher Rede
-- ❌ "Correctiv berichtet, dass X sagte...", indirekte Rede
+- ❌ Indirekte Rede, "X berichtet, dass Y sagte..."
 
-### Belege = Placeholder im Draft
-- KI füllt Belege NICHT aus
-- Belege kommen aus KONTEXT-MATERIAL, manuell ausgewählt
-- Dann per Zotero in `bibliography.bib`
+### Belege im Draft
+- KI füllt Belege NICHT aus — kommen aus KONTEXT-MATERIAL, manuell per Zotero
+
+### Draft-Prinzip (3-DRAFT-THIS.md v2.0)
+- **First Draft mit Speck:** Logik + vollständige Gedankengänge, keine sprachliche Brillanz (kommt in EDIT)
+- Phase-Outputs werden in Dateien geschrieben (`PHASE-A-Lexikalisch.md` etc.) — STOPP nach jeder Phase
+- Sektion heißt **Perspektivenwechsel**, nicht "Anwendung" — erster Satz immer: `**Sicht des Sprechers:**`
+- Keine Anklage-Sprache ("entlarvt", "versteckt") — Advocatus Diaboli
 
 ---
 
-## 📁 WICHTIGE DATEIEN
+## 📁 DATEIEN
 
-**Pipeline (in Reihenfolge):**
-- `wort-fabrik/1-SCAN.py` — Bundestag-Scan
-- `wort-fabrik/2-SICHTEN.md` — DIP-Sichtung → KONTEXT-MATERIAL
-- `wort-fabrik/3-DRAFT-THIS.md` — Recherche + Draft (Phasen A→E)
-- `wort-fabrik/4-EDIT-THIS.md` — 3-Phasen-Editor
-- `wort-fabrik/5-VERIFY.py` — Citekey-Prüfung
+**Pipeline:**
+- `wort-fabrik/SCAN.py` — Bundestag-Scan (v4)
+- `wort-fabrik/DRAFT.md` — Recherche + Draft (Phasen A–E)
+- `wort-fabrik/EDIT.md` — Polishing
+- `wort-fabrik/VERIFY.py` — Citekey-Prüfung
 
 **Referenz:**
-- `wort-fabrik/REF-Kriterien.md` — Zitat-Auswahlkriterien
-- `wort-fabrik/REF-Werkzeugkasten.md` — 14 Mechanismen
+- `wort-fabrik/CITING_STANDARDS.md` — BibTeX-Goldstandard mit Beispiel
+- `wort-fabrik/Queue.md` — 100 Begriffe in der Pipeline
 
 **Ordner:**
-- `wort-fabrik/Recherche/[Begriff]/` — DIP-Outputs
+- `wort-fabrik/Recherche/[Begriff]/` — DIP-Outputs + Phase-Dateien
 - `wort-fabrik/Drafts/` — Entwürfe
 - `wort-fabrik/imports/to_zotero.bib` — BibTeX-Sammler (temporär)
-- `wort-fabrik/Queue.md` — 100 Begriffe in der Pipeline
 
 ---
 
 ## 📚 ZUSÄTZLICHE QUELLEN (SPÄTER)
 
-### Priorität A: Sofort nutzbar
-
-**1. Landtage**
-- **Bayern:** [PARLDOK](https://www.bayern.landtag.de/parlamentsdokumente/) — CSU-Hochburg
-- **NRW:** [Landtag NRW Doku](https://www.landtag.nrw.de/portal/WWW/dokumentenarchiv/)
-- **Sachsen:** [EDAS](https://edas.landtag.sachsen.de/)
-
-**2. Europaparlament**
-- [Europarl Plenarprotokolle](https://www.europarl.europa.eu/plenary/de/debates-video.html)
-
-**3. Bundesrat**
-- [Plenarprotokolle](https://www.bundesrat.de/DE/plenum/plenum-kompakt/plenum-kompakt-node.html)
+**Landtage:** [Bayern](https://www.bayern.landtag.de/parlamentsdokumente/) · [NRW](https://www.landtag.nrw.de/portal/WWW/dokumentenarchiv/) · [Sachsen](https://edas.landtag.sachsen.de/)
+**Europaparlament:** [Plenarprotokolle](https://www.europarl.europa.eu/plenary/de/debates-video.html)
+**Bundesrat:** [Plenarprotokolle](https://www.bundesrat.de/DE/plenum/plenum-kompakt/plenum-kompakt-node.html)
 
 ---
 
-## 📝 SESSION-LOG
-
-### Session 2026-02-08
-
-**Pipeline fertiggestellt:**
-- ✅ `bundestag_recherche.py` → v3 (vollständiger Ein-Scan, alle Jahrgänge)
-- ✅ KONTEXT-MATERIAL-Block in `3-DRAFT-THIS.md` eingebaut
-- ✅ `2-SICHTEN.md` auf KONTEXT-MATERIAL-Output-Format umgestellt
-- ✅ `HANDBUCH.md` wiederhergestellt + auf v3 aktualisiert
-- ✅ Dateien umbenannt: 1-SCAN, 2-SICHTEN, 3-DRAFT-THIS, 4-EDIT-THIS, REF-*
-- ✅ VORLAGE.md → _archiv (vollständig in 3-DRAFT-THIS eingebettet)
-
-### Session 2026-02-07
-
-- ✅ Script verbessert — längere Zitate, BibTeX-Fix
-- ✅ BibTeX-Problem gelöst: `note = {Plenarprotokoll XX/YY}` einheitlich
-- ✅ Test: "Sozialtourismus" — 23 Zitate aus 4600 Protokollen
-
----
-
-*Letzte Aktualisierung: 2026-02-08*
-*Nächster Trigger: "Claude, vieux copain, what's on the plate"*
+*Letzte Aktualisierung: 2026-02-11*
