@@ -15,9 +15,9 @@ tags:
 
 <aside><em>Was tut das Wort?</em> Die Analyse von außen: Was bedeutet der Begriff? Was verschleiert er?</aside>
 
-Remigration(*) tarnt Massendeportationen als Verwaltungsvorgang. ==„Re-" (Umkehrung) + „Migration" (Wanderung) = Deportation klingt wie Logistik.== Es kehrt die Verhältnisse um: die geplante Vertreibung von Millionen wird als Notwehr gerahmt — gegen einen Bevölkerungsaustausch, der als Bedrohung konstruiert wird. Es macht Herkunft zum einzigen Kriterium für Zugehörigkeit — unabhängig von Aufenthaltsdauer, Staatsbürgerschaft, Lebensleistung. Das Wort erfasst auch Menschen, die in Deutschland geboren wurden.
+Remigration tarnt Massendeportationen als Verwaltungsvorgang. ==„Re-" (Umkehrung) + „Migration" (Wanderung) = Deportation klingt wie Logistik.== Es kehrt die Verhältnisse um: die geplante Vertreibung von Millionen wird als Notwehr gerahmt — gegen einen Bevölkerungsaustausch, der als Bedrohung konstruiert wird. Es macht Herkunft zum einzigen Kriterium für Zugehörigkeit — unabhängig von Aufenthaltsdauer, Staatsbürgerschaft, Lebensleistung. Das Wort erfasst auch Menschen, die in Deutschland geboren wurden.
 
-<aside>(*) Nicht gemeint, wenn Remigration in der Migrationssoziologie oder Exilforschung genutzt wird, um die individuelle, oft freiwillige Rückkehr von Migranten oder historisch Verfolgten (z.B. nach 1945) zu beschreiben. Die Analyse bezieht sich auf die politisch-instrumentelle Verwendung.</aside>
+<aside><b>Abgrenzung:</b> Nicht gemeint, wenn Remigration in der Migrationssoziologie oder Exilforschung genutzt wird, um die individuelle, oft freiwillige Rückkehr von Migranten oder historisch Verfolgten (z.B. nach 1945) zu beschreiben. Die Analyse bezieht sich auf die politisch-instrumentelle Verwendung.</aside>
 
 ### Beispiel
 
