@@ -13,11 +13,16 @@ tags:
 
 ## Bedeutung · [Kritisch]
 
-<aside><em>Was tut das Wort?</em> Die Analyse von außen: Was bedeutet der Begriff? Was verschleiert er?</aside>
+> [!NOTE]
+> Was tut das Wort? Die Analyse von außen: Was bedeutet der Begriff? Was verschleiert er?
 
-Remigration tarnt Massendeportationen als Verwaltungsvorgang. ==„Re-" (Umkehrung) + „Migration" (Wanderung) = Deportation klingt wie Logistik.== Es kehrt die Verhältnisse um: die geplante Vertreibung von Millionen wird als Notwehr gerahmt — gegen einen Bevölkerungsaustausch, der als Bedrohung konstruiert wird. Es macht Herkunft zum einzigen Kriterium für Zugehörigkeit — unabhängig von Aufenthaltsdauer, Staatsbürgerschaft, Lebensleistung. Das Wort erfasst auch Menschen, die in Deutschland geboren wurden.
 
-<aside><b>Abgrenzung:</b> Nicht gemeint, wenn Remigration in der Migrationssoziologie oder Exilforschung genutzt wird, um die individuelle, oft freiwillige Rückkehr von Migranten oder historisch Verfolgten (z.B. nach 1945) zu beschreiben. Die Analyse bezieht sich auf die politisch-instrumentelle Verwendung.</aside>
+Remigration tarnt Massendeportationen als Verwaltungsvorgang. ==„Re-" (Umkehrung) + „Migration" (Wanderung) = Deportation klingt wie Logistik - was ein simler Weg war hierhin, ist  auch ein simpler Weg zurück.== Es kehrt die Verhältnisse um: die geplante Vertreibung von Millionen wird als Notwehr gerahmt — gegen einen Bevölkerungsaustausch, der als Bedrohung konstruiert wird. Es macht Herkunft zum einzigen Kriterium für Zugehörigkeit — unabhängig von Aufenthaltsdauer, Staatsbürgerschaft, Lebensleistung. Das Wort erfasst auch Menschen, die in Deutschland geboren wurden.
+
+
+> [!NOTE]
+> **Abgrenzung:** Nicht gemeint, wenn Remigration in der Migrationssoziologie oder Exilforschung genutzt wird, um die individuelle, oft freiwillige Rückkehr von Migranten oder historisch Verfolgten (z.B. nach 1945) zu beschreiben. Die Analyse bezieht sich auf die politisch-instrumentelle Verwendung.
+
 
 ### Beispiel
 
@@ -29,7 +34,9 @@ Remigration tarnt Massendeportationen als Verwaltungsvorgang. ==„Re-" (Umkehru
 
 ## Andere Lesart · [Affirmativ]
 
-<aside>Dieselbe Sprache — von innen. Der analytisch beschriebene Fall <em>für</em> den Begriff: Welche Logik trägt ihn? Warum macht er für den Sprecher Sinn?</aside>
+> [!NOTE]
+> Dieselbe Sprache — von innen. Der analytisch beschriebene Fall *für* den Begriff: Welche Logik trägt ihn? Warum macht er für den Sprecher Sinn?
+
 
 Ein Sozialstaat funktioniert nur als geschlossene Solidargemeinschaft. Wer ohne Beitrag einwandert und Leistungen beantragt, verändert das Versprechen, das diese Gemeinschaft zusammenhält — nicht aus Bosheit, sondern weil jedes offene System Anreize setzt. Die Migrationspolitik der vergangenen Jahrzehnte hat diese Grenze aufgelöst: Das Ergebnis ist ein System, das mehr verspricht, als es tragen kann. Remigration ist, in dieser Logik, keine Vertreibung — es ist die Wiederherstellung einer Grenze, ohne die Solidarität zur Beliebigkeit wird.
 
@@ -43,7 +50,8 @@ Ein Sozialstaat funktioniert nur als geschlossene Solidargemeinschaft. Wer ohne 
 
 ## Mechanismen
 
-<aside><em>Welche Mechanismen wirken?</em> Dominant aktive sind mit <b>●</b> markiert, teilweise aktive mit <b>◐</b>.</aside>
+> [!NOTE]
+> Welche Mechanismen wirken? Dominant aktive sind mit ● markiert, teilweise aktive mit ◐.
 
 *   ● **Euphemismus (dominant):** Ein wertneutraler, technokratisch klingender Begriff aus der Migrationssoziologie wird zweckentfremdet, um die Gewaltförmigkeit von Massendeportationen zu verschleiern. Die Abstraktion immunisiert gegen die menschliche Tragweite der Forderung.
 *   ● **Inversion (dominant):** Kehrt das Täter-Opfer-Verhältnis um. Wer vertreibt, inszeniert sich als Verteidigter — die Aggression erscheint als Reaktion auf einen Angriff, der erst behauptet werden muss, damit die Maßnahme gerechtfertigt erscheint.
@@ -56,7 +64,8 @@ Ein Sozialstaat funktioniert nur als geschlossene Solidargemeinschaft. Wer ohne 
 
 ## Wortgefecht · [Affirmativ] vs. [Kritisch]
 
-<aside><em>Wer benutzt das Wort — und wer bekämpft es?</em> Originalzitate aus Bundestagsprotokollen. Die Reihenfolge folgt der Geschichte. Affirmative Verwendungen tragen das Label <b>[A]</b>, kritische <b>[K]</b>.</aside>
+> [!NOTE]
+> Wer benutzt das Wort — und wer bekämpft es? Originalzitate aus Bundestagsprotokollen. Die Reihenfolge folgt der Geschichte. Affirmative Verwendungen tragen das Label [A], kritische [K].
 
 #### 2018
 
