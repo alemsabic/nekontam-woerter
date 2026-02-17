@@ -2,108 +2,51 @@
 draft: true
 ---
 
-
 # Wie ist ein Wörterbucheintrag aufgebaut?
 
-Dieses Wörterbuch dokumentiert politische Reizwörter und diskriminierende Vulgärsprache - ihre Bedeutung, Herkunft und Wirkung. Jeder Eintrag folgt folgender Struktur:
+Jeder Eintrag betrachtet dasselbe Wort aus vier Winkeln. Jeder Abschnitt stellt eine andere Frage.
 
 ---
 
-## Definition
-*Was ist das Wort? Wie wirkt es?*
+## Aufbau
+*Wie ist das Wort gebaut?*
 
-Die Definition beantwortet fünf Fragen:
+Nur bei zusammengesetzten Wörtern. Die semantische Formel zeigt, was entsteht, wenn die Bestandteile kombiniert werden.
 
-1. Was ist es?
-2. Wie funktioniert es?
-3. Was bewirkt es?
-4. Warum wird es benutzt?
-5. Wo steht es im Diskurs?
+**Format:** „Bestandteil 1" (Bedeutung) + „Bestandteil 2" (Bedeutung) = Wirkung
 
 ---
 
-## Geschichte
-*Wo kommt das Wort her? Wie wurde es zur Waffe?*
+## Bedeutung · [K]
+*Was tut das Wort?*
 
-Die Geschichte erzählt die Biographie des Begriffs in fünf Schritten:
+Die Analyse von außen: was der Begriff bedeutet, was er verschleiert oder umkehrt.
 
-1. **Ursprung:** Hatte der Begriff eine neutrale/akademische Herkunft?
-2. **Erste politische Instrumentalisierung:** Wer hat ihn geprägt oder umgedeutet?
-3. **Kontext:** In welchem politischen/sozialen Zusammenhang?
-4. **Verbreitung:** Wer hat ihn popularisiert? Wer hat ihn übernommen?
-5. **Gegenwart:** Wo steht er heute im Diskurs?
-
-Wichtige Daten - Jahre, Namen, Parteien, Ereignisse - sind **fett** markiert, damit die Geschichte auf einen Blick erfassbar wird. Begriffe, Personen oder Ereignisse, die vielen Lesern unbekannt sein mögen, werden mit **Fußnoten** erklärt.
-
-*Bei Begriffen aus der Vulgärsprache ist die Geschichte des Begriffs optional.*
+**[K]** steht für die kritisch-analytische Haltung dieses Abschnitts.
 
 ---
 
-## Konstruktion
-*Wie erzeugt die Wortkombination ihre Wirkung?*
+## Andere Lesart · [A]
+*Wie sieht es der Sprecher?*
 
-Was ist die semantische Formel? Wie erzeugen die Wortbestandteile eine manipulative Bedeutung?
+Dieselbe Sprache — von innen. Der analytisch beschriebene Fall *für* den Begriff: welche Logik ihn trägt, warum er für den Sprecher Sinn macht. Nicht als Karikatur, nicht als Anklage.
 
-**Format:** "Bestandteil 1" (Bedeutung) + "Bestandteil 2" (Bedeutung) = Wirkung
-
-**Beispiel:** "Sozial-" (Sozialsystem als Ziel) + "Tourismus" (Vergnügungsreise) = existenzielle Not wird zu freiwilliger Konsumentscheidung.
+**[A]** steht für die affirmative Haltung dieses Abschnitts.
 
 ---
 
-## Analyse
-*Welche Mechanismen wirken? Wie stark?*
+## Wortgefecht
+*Wer benutzt das Wort — und wer bekämpft es?*
 
-Welche Mechanismen aus dem Werkzeugkasten wirken? (Erklärungen dazu findest du im [Werkzeugkasten](WERKZEUGKASTEN-LESER.md).) Die 14 Mechanismen sind in drei Clustern organisiert, die eine Eskalationsleiter bilden (A→B→C):
-
-1. **Identitäts-Konstruktion** (Wer ist der Feind?) - Ethnisierung, Kriminalisierung, Sexualisierung, Infantilisierung, Pathologisierung
-2. **Realitäts-Verzerrung** (Wie wird Wahrheit manipuliert?) - Euphemismus, Inversion, Naturalisierung, Entpolitisierung, Ontologisierung
-3. **Eskalation & Dehumanisierung** (Wie wird Gewalt vorbereitet?) - Quantifizierung, Militarisierung, Temporalisierung, Entmenschlichung
-
-**Graduierung:**
-- **●** = dominant (ohne diesen Mechanismus funktioniert der Begriff nicht)
-- **◐** = teilweise (schwingt mit, ist kontext-abhängig, nicht zentral)
-
-**Wichtige Hinweise:**
-- Die meisten Begriffe nutzen **mehrere Mechanismen gleichzeitig** - das ist normal und zeigt die Komplexität der Sprache. Die Graduierung hilft zu unterscheiden, welcher Mechanismus zentral ist.
-- Viele Mechanismen basieren auf **Essentialisierung** (Zuschreibung unveränderlicher Eigenschaften) - sie wenden dieses Prinzip nur unterschiedlich an (z.B. Ethnisierung über Herkunft, Ontologisierung über Zustand→Sein).
-- **Kontext ist entscheidend:** Dieselben Worte können in verschiedenen Situationen unterschiedlich funktionieren (Satire vs. Ernst, Wissenschaft vs. Agitation).
-
-Jede Analyse wird mit einer Begründung versehen, die zeigt, *wie* der Mechanismus wirkt - nicht nur *dass* er wirkt.
+Originalzitate aus Bundestagsprotokollen, chronologisch geordnet. Affirmative Verwendungen tragen das Label **[A]**, kritische **[K]**. Die Reihenfolge folgt der Geschichte — so entsteht das eigentliche Gefecht: Angriff und Antwort in der Abfolge, in der sie stattfanden.
 
 ---
 
-## Anwendung
-*Warum ist der Begriff so attraktiv für den Sprecher?*
+## Mechanismen
+*Welche Mechanismen wirken?*
 
-Diese Sektion zeigt die Perspektive des Anwenders: Warum ist der Begriff eigentlich so attraktiv? Wir erklären die subjektive Berechtigung und Verführungskraft des Begriffs.
-
-*Optional. Vor allem bei politisch eingesetzten Begriffen.*
+Welche der 14 Mechanismen aus dem [Werkzeugkasten](WERKZEUGKASTEN-LESER.md) sind am Werk? Dominant aktive sind mit **●** markiert, teilweise aktive mit **◐**. Nicht nur *dass* ein Mechanismus wirkt — sondern *wie*, mit Begründung.
 
 ---
 
-## Belege
-*Wo wird das Wort benutzt? Von wem?*
-
-Belege zeigen, dass wir dokumentieren, nicht spekulieren. Bei politischen Begriffen verwenden wir Originalzitate von Personen, die den Begriff tatsächlich benutzen, chronologisch geordnet und mit Quellennachweis. Bei Vulgärsprache zeigen wir authentische Verwendungsbeispiele.
-
----
-
-## Abgrenzung
-*Wann trifft unsere Analyse nicht zu?*
-
-Die Abgrenzung zeigt, wo unsere Analyse *nicht* gilt - und macht damit deutlich, dass **der Kontext entscheidet, nicht das Wort allein**. Ein Begriff in wissenschaftlicher Analyse, in Satire oder als ironisches Zitat funktioniert anders als in politischer Agitation.
-
-**Format:** "Nicht gemeint, wenn [Bedingung]. [Kurze Erklärung]."
-
-**Beispiel:** "Nicht gemeint, wenn ==Remigration== in der Migrationsforschung genutzt wird, um die statistische Rückwanderung von Rentnern zu beschreiben."
-
-**Typische Kontexte für Abgrenzung:**
-- Wissenschaftliche oder fachliche Verwendung
-- Eindeutig erkennbare Satire oder Parodie (die Mechanismen sichtbar macht, nicht nutzt)
-- Historische oder analytische Zitate
-
-*Optional. Empfohlen bei Begriffen mit legitimen Verwendungen.*
-
----
-
-Jeder Eintrag enthält zudem **Fußnoten** (Erklärungen zu Begriffen, Personen oder Ereignissen) und **Quellenangaben** (bibliographische Nachweise aller Quellen).
+Jeder Eintrag enthält **Quellenangaben** für alle Zitate. Wo nötig ergänzt ein `(*)` im Titel eine **Abgrenzung** am Ende des Eintrags: wann gilt unsere Analyse nicht?
