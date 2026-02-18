@@ -10,15 +10,14 @@ tags:
 
 # Re|mi|gra|ti|on
 
-
 ## Aufbau
 
-„Re-“ (Umkehrung) + „Migration“ (Wanderung) = Deportation klingt wie Logistik - eine Rückführung dessen, was fehlt am Platz ist.
+„Re-“ (Umkehrung) + „Migration“ (Wanderung) = Deportation klingt wie Logistik — eine Rückführung dessen, was fehl am Platz ist.
 
 
 ## Bedeutung · [K]
 
-Remigration(*) tarnt Massendeportationen als Verwaltungsvorgang. Es kehrt die Verhältnisse um: die geplante Vertreibung von Millionen wird als Notwehr gerahmt — gegen einen Bevölkerungsaustausch, der als Bedrohung konstruiert wird. Es macht Herkunft zum einzigen Kriterium für Zugehörigkeit — unabhängig von Aufenthaltsdauer, Staatsbürgerschaft, Lebensleistung. Das Wort erfasst auch Menschen, die in Deutschland geboren wurden.
+Remigration(*) tarnt Massendeportationen als Verwaltungsvorgang. Es kehrt die Verhältnisse um: die geplante Vertreibung von Millionen erscheint als Notwehr — gegen einen Bevölkerungsaustausch, der als Bedrohung konstruiert wird. Es macht Herkunft zum einzigen Kriterium für Zugehörigkeit — unabhängig von Aufenthaltsdauer, Staatsbürgerschaft, Lebensleistung. Das Wort erfasst auch Menschen, die in Deutschland geboren wurden.
 
 ---
 
@@ -92,11 +91,11 @@ Ein Sozialstaat funktioniert nur als geschlossene Solidargemeinschaft. Wer ohne 
 
 *   ● **Euphemismus (dominant):** Ein wertneutraler, technokratisch klingender Begriff aus der Migrationssoziologie wird zweckentfremdet, um die Gewaltförmigkeit von Massendeportationen zu verschleiern. Die Abstraktion immunisiert gegen die menschliche Tragweite der Forderung.
 *   ● **Inversion (dominant):** Kehrt das Täter-Opfer-Verhältnis um. Durch die Umdeutung von Gewalt in „Rückwanderung“ erscheint die Zerstörung des sozialen Friedens als dessen Wiederherstellung — die Aggression als Notwehr.
-*   ● **Ethnisierung (dominant):** Macht kulturelle oder ethnische Zugehörigkeit zum alleinigen Kriterium für das Aufenthaltsrecht. Der Begriff entzieht Menschen ihre Individualität und reduziert sie auf ihre Herkunft — und macht vor deutschen Staatsbürgern nicht halt.
+*   ● **Ethnisierung (dominant):** Macht kulturelle oder ethnische Zugehörigkeit zum alleinigen Kriterium für das Aufenthaltsrecht. Der Begriff entzieht Menschen ihre Individualität und reduziert sie auf ihre Herkunft.
 *   ◐ **Quantifizierung:** Behandelt Menschen als Verschiebemasse. Verknüpft mit Wassermetaphern (die „Flut“ umkehren), verstärkt das die Entmenschlichung durch Massenhaftigkeit.
 *   ◐ **Temporalisierung:** Erzeugt apokalyptischen Zeitdruck. Remigration wird als „letzte Chance“ vor dem demografischen Kollaps dargestellt — künstlicher Druck soll radikale Maßnahmen als alternativlos erscheinen lassen.
 
---- 
+---
 
 <aside>(*) <strong>Abgrenzung:</strong> Nicht gemeint, wenn Remigration in der Migrationssoziologie oder Exilforschung genutzt wird, um die individuelle, oft freiwillige Rückkehr von Migranten oder historisch Verfolgten (z.B. nach 1945) zu beschreiben. Die Analyse bezieht sich auf die politisch-instrumentelle Verwendung.</aside>
 
