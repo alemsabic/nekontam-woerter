@@ -33,56 +33,56 @@ Ein Sozialstaat funktioniert nur als geschlossene Solidargemeinschaft. Wer ohne 
 #### 2018
 
 > [!affirmativ] Affirmativ
-> »Die einzig mögliche Lösung ist konsequente Remigration aller Nichtaufenthaltsberechtigter.«
+> »Die einzig mögliche Lösung ist konsequente **Remigration** aller Nichtaufenthaltsberechtigter.«
 >
 > — **Frank Magnitz** (AfD) · [@magnitz_2018_09_26]
 
 #### 2023
 
 > [!affirmativ] Affirmativ
-> »Die Antwort lautet: Remigration, außereuropäische Asylzentren, Grenzschutz und friedlich-kreativer Protest gegen die anhaltende Massenmigration. Die Antwort lautet auch: Karl Martell[^1]. So ist es folgerichtig, dass junge Patrioten von der „Revolte Rheinland“[^2] das arabische Straßenschild in Düsseldorf überklebten und die Straße nach ebenjenem Verteidiger des Abendlandes benannten.«
+> »Die Antwort lautet: **Remigration**, außereuropäische Asylzentren, Grenzschutz und friedlich-kreativer Protest gegen die anhaltende Massenmigration. Die Antwort lautet auch: Karl Martell[^1]. So ist es folgerichtig, dass junge Patrioten von der „Revolte Rheinland“[^2] das arabische Straßenschild in Düsseldorf überklebten und die Straße nach ebenjenem Verteidiger des Abendlandes benannten.«
 >
 > — **Matthias Helferich** (fraktionslos) · [@helferich_2023_03_30]
 
 #### 2023
 
 > [!affirmativ] Affirmativ
-> »Kurzum: Wir brauchen Remigration, um die Wohnungsmärkte zu entspannen. Wer einmal migriert ist, der kann natürlich auch zurückmigrieren.«
+> »Kurzum: Wir brauchen **Remigration**, um die Wohnungsmärkte zu entspannen. Wer einmal migriert ist, der kann natürlich auch zurückmigrieren.«
 >
 > — **Roger Beckamp** (AfD) · [@beckamp_2023_09_05]
 
 #### 2024
 
 > [!affirmativ] Affirmativ
-> »Wir fordern seit jeher die Rückführung bzw. Remigration aller Migranten, die nach Recht und Gesetz keinen Schutzanspruch haben. Es geht dabei um rund 300 000 endgültig abgelehnte Asylbewerber und zudem um die Ausländer, die nur vorübergehend als Bürgerkriegsflüchtlinge Schutz genießen. Dieser Schutz endet, wenn der Krieg vorbei ist.«
+> »Wir fordern seit jeher die Rückführung bzw. **Remigration** aller Migranten, die nach Recht und Gesetz keinen Schutzanspruch haben. Es geht dabei um rund 300 000 endgültig abgelehnte Asylbewerber und zudem um die Ausländer, die nur vorübergehend als Bürgerkriegsflüchtlinge Schutz genießen. Dieser Schutz endet, wenn der Krieg vorbei ist.«
 >
 > — **Bernd Baumann** (AfD) · [@baumann_2024_01_18]
 
 #### 2024
 
 > [!kritisch] Kritisch
-> »Auch in Deutschland gibt es bereits seit Jahrzehnten rechte Netzwerke, die lange unterschätzt wurden. Ihre Vordenker hüllen ihre Absichten in beschönigende Verpackungen wie „Ethnopluralismus“[^3] oder „Remigration“. Aber es geht ihnen in Wahrheit darum, Menschen zu diskriminieren und zu drangsalieren — aufgrund ihrer Abstammung, ihres Aussehens, ihrer Herkunft oder ihrer Haltung — oder, wenn sie freie Hand hätten, gleich zu deportieren.«
+> »Auch in Deutschland gibt es bereits seit Jahrzehnten rechte Netzwerke, die lange unterschätzt wurden. Ihre Vordenker hüllen ihre Absichten in beschönigende Verpackungen wie „Ethnopluralismus“[^3] oder „**Remigration**“. Aber es geht ihnen in Wahrheit darum, Menschen zu diskriminieren und zu drangsalieren — aufgrund ihrer Abstammung, ihres Aussehens, ihrer Herkunft oder ihrer Haltung — oder, wenn sie freie Hand hätten, gleich zu deportieren.«
 >
 > — **Nancy Faeser** (Bundesministerin des Innern) · [@faeser_2024_01_18]
 
 #### 2024
 
 > [!kritisch] Kritisch
-> »Wenn Faschisten bei Geheimtreffen die Würde des Menschen und unsere Verfassung unterlaufen, wenn sie die Deportation von Menschen planen und wenn Rechtspopulisten diese Deportationspläne als „Remigration“ verharmlosen, dann ist es allerhöchste Zeit, aufzustehen und der Gefahr ins Auge zu sehen.«
+> »Wenn Faschisten bei Geheimtreffen die Würde des Menschen und unsere Verfassung unterlaufen, wenn sie die Deportation von Menschen planen und wenn Rechtspopulisten diese Deportationspläne als „**Remigration**“ verharmlosen, dann ist es allerhöchste Zeit, aufzustehen und der Gefahr ins Auge zu sehen.«
 >
 > — **Gülistan Yüksel** (SPD) · [@yueksel_2024_01_18]
 
 #### 2025
 
 > [!kritisch] Kritisch
-> »Und wie muss in den Ohren der Eltern des erstochenen marokkanischen Jungen, wie muss in den Ohren der Eltern des syrischen Mädchens oder wie muss in den Ohren der Pflegerin, die nach Magdeburg eingegriffen hat, die Verletzte betreut hat und danach rassistisch beleidigt und geschlagen wurde, diese Remigrations- und Rassismussprache der AfD klingen?«
+> »Und wie muss in den Ohren der Eltern des erstochenen marokkanischen Jungen, wie muss in den Ohren der Eltern des syrischen Mädchens oder wie muss in den Ohren der Pflegerin, die nach Magdeburg eingegriffen hat, die Verletzte betreut hat und danach rassistisch beleidigt und geschlagen wurde, diese **Remigrations**- und Rassismussprache der AfD klingen?«
 >
 > — **Robert Habeck** (Bundesminister für Wirtschaft) · [@habeck_2025_01_29]
 
 #### 2026
 
 > [!kritisch] Kritisch
-> »Ich habe mich gerade mit Vertretern des Bundesverbands der Systemgastronomie getroffen. Die haben gesagt: Bitte, bitte, könnten mehr als nur die Grünen fordern, dass man ein vernünftiges Verhältnis zur Migration bekommt? Nicht Remigration, wir brauchen Einwanderung, weil wir Arbeitskräfte brauchen. So sieht es nämlich aus.«
+> »Ich habe mich gerade mit Vertretern des Bundesverbands der Systemgastronomie getroffen. Die haben gesagt: Bitte, bitte, könnten mehr als nur die Grünen fordern, dass man ein vernünftiges Verhältnis zur Migration bekommt? Nicht **Remigration**, wir brauchen Einwanderung, weil wir Arbeitskräfte brauchen. So sieht es nämlich aus.«
 >
 > — **Katharina Beck** (Bündnis 90/Die Grünen) · [@beck_2026_01_28]
 
