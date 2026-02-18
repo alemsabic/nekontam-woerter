@@ -13,7 +13,7 @@ tags:
 
 ## Aufbau
 
-„Re-" (Umkehrung) + „Migration" (Wanderung) = Deportation klingt wie Logistik - was ein simpler Weg hierhin war, ist auch ein simpler Weg zurück.
+„Re-“ (Umkehrung) + „Migration“ (Wanderung) = Deportation klingt wie Logistik - eine Rückführung dessen, was fehlt am Platz ist.
 
 
 ## Bedeutung · [K]
@@ -40,7 +40,7 @@ Ein Sozialstaat funktioniert nur als geschlossene Solidargemeinschaft. Wer ohne 
 #### 2023
 
 > [!affirmativ] Affirmativ
-> »Die Antwort lautet: Remigration, außereuropäische Asylzentren, Grenzschutz und friedlich-kreativer Protest gegen die anhaltende Massenmigration. Die Antwort lautet auch: Karl Martell[^1]. So ist es folgerichtig, dass junge Patrioten von der „Revolte Rheinland"[^2] das arabische Straßenschild in Düsseldorf überklebten und die Straße nach ebenjenem Verteidiger des Abendlandes benannten.«
+> »Die Antwort lautet: Remigration, außereuropäische Asylzentren, Grenzschutz und friedlich-kreativer Protest gegen die anhaltende Massenmigration. Die Antwort lautet auch: Karl Martell[^1]. So ist es folgerichtig, dass junge Patrioten von der „Revolte Rheinland“[^2] das arabische Straßenschild in Düsseldorf überklebten und die Straße nach ebenjenem Verteidiger des Abendlandes benannten.«
 >
 > — **Matthias Helferich** (fraktionslos) · [@helferich_2023_03_30]
 
@@ -61,14 +61,14 @@ Ein Sozialstaat funktioniert nur als geschlossene Solidargemeinschaft. Wer ohne 
 #### 2024
 
 > [!kritisch] Kritisch
-> »Auch in Deutschland gibt es bereits seit Jahrzehnten rechte Netzwerke, die lange unterschätzt wurden. Ihre Vordenker hüllen ihre Absichten in beschönigende Verpackungen wie „Ethnopluralismus"[^3] oder „Remigration". Aber es geht ihnen in Wahrheit darum, Menschen zu diskriminieren und zu drangsalieren — aufgrund ihrer Abstammung, ihres Aussehens, ihrer Herkunft oder ihrer Haltung — oder, wenn sie freie Hand hätten, gleich zu deportieren.«
+> »Auch in Deutschland gibt es bereits seit Jahrzehnten rechte Netzwerke, die lange unterschätzt wurden. Ihre Vordenker hüllen ihre Absichten in beschönigende Verpackungen wie „Ethnopluralismus“[^3] oder „Remigration“. Aber es geht ihnen in Wahrheit darum, Menschen zu diskriminieren und zu drangsalieren — aufgrund ihrer Abstammung, ihres Aussehens, ihrer Herkunft oder ihrer Haltung — oder, wenn sie freie Hand hätten, gleich zu deportieren.«
 >
 > — **Nancy Faeser** (Bundesministerin des Innern) · [@faeser_2024_01_18]
 
 #### 2024
 
 > [!kritisch] Kritisch
-> »Wenn Faschisten bei Geheimtreffen die Würde des Menschen und unsere Verfassung unterlaufen, wenn sie die Deportation von Menschen planen und wenn Rechtspopulisten diese Deportationspläne als „Remigration" verharmlosen, dann ist es allerhöchste Zeit, aufzustehen und der Gefahr ins Auge zu sehen.«
+> »Wenn Faschisten bei Geheimtreffen die Würde des Menschen und unsere Verfassung unterlaufen, wenn sie die Deportation von Menschen planen und wenn Rechtspopulisten diese Deportationspläne als „Remigration“ verharmlosen, dann ist es allerhöchste Zeit, aufzustehen und der Gefahr ins Auge zu sehen.«
 >
 > — **Gülistan Yüksel** (SPD) · [@yueksel_2024_01_18]
 
@@ -91,10 +91,10 @@ Ein Sozialstaat funktioniert nur als geschlossene Solidargemeinschaft. Wer ohne 
 ## Mechanismen
 
 *   ● **Euphemismus (dominant):** Ein wertneutraler, technokratisch klingender Begriff aus der Migrationssoziologie wird zweckentfremdet, um die Gewaltförmigkeit von Massendeportationen zu verschleiern. Die Abstraktion immunisiert gegen die menschliche Tragweite der Forderung.
-*   ● **Inversion (dominant):** Kehrt das Täter-Opfer-Verhältnis um. Durch die Umdeutung von Gewalt in „Rückwanderung" erscheint die Zerstörung des sozialen Friedens als dessen Wiederherstellung — die Aggression als Notwehr.
+*   ● **Inversion (dominant):** Kehrt das Täter-Opfer-Verhältnis um. Durch die Umdeutung von Gewalt in „Rückwanderung“ erscheint die Zerstörung des sozialen Friedens als dessen Wiederherstellung — die Aggression als Notwehr.
 *   ● **Ethnisierung (dominant):** Macht kulturelle oder ethnische Zugehörigkeit zum alleinigen Kriterium für das Aufenthaltsrecht. Der Begriff entzieht Menschen ihre Individualität und reduziert sie auf ihre Herkunft — und macht vor deutschen Staatsbürgern nicht halt.
-*   ◐ **Quantifizierung:** Behandelt Menschen als Verschiebemasse. Verknüpft mit Wassermetaphern (die „Flut" umkehren), verstärkt das die Entmenschlichung durch Massenhaftigkeit.
-*   ◐ **Temporalisierung:** Erzeugt apokalyptischen Zeitdruck. Remigration wird als „letzte Chance" vor dem demografischen Kollaps dargestellt — künstlicher Druck soll radikale Maßnahmen als alternativlos erscheinen lassen.
+*   ◐ **Quantifizierung:** Behandelt Menschen als Verschiebemasse. Verknüpft mit Wassermetaphern (die „Flut“ umkehren), verstärkt das die Entmenschlichung durch Massenhaftigkeit.
+*   ◐ **Temporalisierung:** Erzeugt apokalyptischen Zeitdruck. Remigration wird als „letzte Chance“ vor dem demografischen Kollaps dargestellt — künstlicher Druck soll radikale Maßnahmen als alternativlos erscheinen lassen.
 
 --- 
 
@@ -102,4 +102,4 @@ Ein Sozialstaat funktioniert nur als geschlossene Solidargemeinschaft. Wer ohne 
 
 [^1]: Karl Martell (688–741), fränkischer Hausmeier, besiegte 732 bei Tours und Poitiers ein arabisches Heer. Die Neue Rechte stilisiert ihn zum Verteidiger des christlichen Abendlandes gegen den Islam.
 [^2]: Neonazistisches Netzwerk aus dem Rheinland, bekannt durch Aktionen wie das Überkleben arabischsprachiger Straßenschilder.
-[^3]: Ideologisches Konzept der Neuen Rechten: Es ersetzt den Begriff „Rasse" durch „Kultur" und postuliert ethnische Homogenität als Grundlage jeder Gemeinschaft — mit dem gleichen Ergebnis in neuer Verpackung.
+[^3]: Ideologisches Konzept der Neuen Rechten: Es ersetzt den Begriff „Rasse“ durch „Kultur“ und postuliert ethnische Homogenität als Grundlage jeder Gemeinschaft — mit dem gleichen Ergebnis in neuer Verpackung.
