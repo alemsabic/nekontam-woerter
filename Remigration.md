@@ -40,7 +40,7 @@ Ein Sozialstaat funktioniert nur als geschlossene Solidargemeinschaft. Wer ohne 
 #### 2023
 
 > [!affirmativ] Affirmativ
-> »Die Antwort lautet: Remigration, außereuropäische Asylzentren, Grenzschutz und friedlich-kreativer Protest gegen die anhaltende Massenmigration. Die Antwort lautet auch: Karl Martell. So ist es folgerichtig, dass junge Patrioten von der „Revolte Rheinland" das arabische Straßenschild in Düsseldorf überklebten und die Straße nach ebenjenem Verteidiger des Abendlandes benannten.«
+> »Die Antwort lautet: Remigration, außereuropäische Asylzentren, Grenzschutz und friedlich-kreativer Protest gegen die anhaltende Massenmigration. Die Antwort lautet auch: Karl Martell[^1]. So ist es folgerichtig, dass junge Patrioten von der „Revolte Rheinland"[^2] das arabische Straßenschild in Düsseldorf überklebten und die Straße nach ebenjenem Verteidiger des Abendlandes benannten.«
 >
 > — **Matthias Helferich** (fraktionslos) · [@helferich_2023_03_30]
 
@@ -61,7 +61,7 @@ Ein Sozialstaat funktioniert nur als geschlossene Solidargemeinschaft. Wer ohne 
 #### 2024
 
 > [!kritisch] Kritisch
-> »Auch in Deutschland gibt es bereits seit Jahrzehnten rechte Netzwerke, die lange unterschätzt wurden. Ihre Vordenker hüllen ihre Absichten in beschönigende Verpackungen wie „Ethnopluralismus" oder „Remigration". Aber es geht ihnen in Wahrheit darum, Menschen zu diskriminieren und zu drangsalieren — aufgrund ihrer Abstammung, ihres Aussehens, ihrer Herkunft oder ihrer Haltung — oder, wenn sie freie Hand hätten, gleich zu deportieren.«
+> »Auch in Deutschland gibt es bereits seit Jahrzehnten rechte Netzwerke, die lange unterschätzt wurden. Ihre Vordenker hüllen ihre Absichten in beschönigende Verpackungen wie „Ethnopluralismus"[^3] oder „Remigration". Aber es geht ihnen in Wahrheit darum, Menschen zu diskriminieren und zu drangsalieren — aufgrund ihrer Abstammung, ihres Aussehens, ihrer Herkunft oder ihrer Haltung — oder, wenn sie freie Hand hätten, gleich zu deportieren.«
 >
 > — **Nancy Faeser** (Bundesministerin des Innern) · [@faeser_2024_01_18]
 
@@ -100,3 +100,6 @@ Ein Sozialstaat funktioniert nur als geschlossene Solidargemeinschaft. Wer ohne 
 
 <aside>(*) <strong>Abgrenzung:</strong> Nicht gemeint, wenn Remigration in der Migrationssoziologie oder Exilforschung genutzt wird, um die individuelle, oft freiwillige Rückkehr von Migranten oder historisch Verfolgten (z.B. nach 1945) zu beschreiben. Die Analyse bezieht sich auf die politisch-instrumentelle Verwendung.</aside>
 
+[^1]: Karl Martell (688–741), fränkischer Hausmeier, besiegte 732 bei Tours und Poitiers ein arabisches Heer. Die Neue Rechte stilisiert ihn zum Verteidiger des christlichen Abendlandes gegen den Islam.
+[^2]: Neonazistisches Netzwerk aus dem Rheinland, bekannt durch Aktionen wie das Überkleben arabischsprachiger Straßenschilder.
+[^3]: Ideologisches Konzept der Neuen Rechten: Es ersetzt den Begriff „Rasse" durch „Kultur" und postuliert ethnische Homogenität als Grundlage jeder Gemeinschaft — mit dem gleichen Ergebnis in neuer Verpackung.
