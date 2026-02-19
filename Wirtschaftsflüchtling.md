@@ -16,13 +16,13 @@ tags:
 
 ## Bedeutung · [K]
 
-Wirtschaftsflüchtling(*) fällt das Urteil, bevor der Fall geprüft ist. Das Wort spaltet Schutzsuchende in zwei Gruppen: die „echt“ Verfolgten, denen Schutz zusteht, und die „unechten“ Profiteure, die das Asylrecht missbrauchen. Indem es wirtschaftliche Not als persönliche Entscheidung rahmt — nicht als Flucht, sondern als Kalkül —, entzieht es dem Schutzsuchenden seinen Status noch vor der individuellen Prüfung. Was wie eine Unterscheidung aussieht, ist eine Vorentscheidung.
+Wirtschaftsflüchtling(*) fällt das Urteil, bevor der Fall geprüft ist. Das Wort spaltet Schutzsuchende in zwei Gruppen: die „echt“ Verfolgten, denen Schutz zusteht, und die „unechten“ Profiteure, die das Asylrecht missbrauchen. Indem es wirtschaftliche Not als persönliche Entscheidung rahmt — nicht als Flucht, sondern als Kalkül —, entzieht es dem Schutzsuchenden seinen Status noch vor der individuellen Prüfung. Was wie eine Unterscheidung aussieht, ist ein Urteil vor dem Verfahren.
 
 ---
 
 ## Andere Lesart · [A]
 
-Ein System, das keine Unterscheidung trifft, kann kein Versprechen halten. Das Asylrecht schützt politisch Verfolgte — nicht jeden, der ein besseres Leben sucht. Wer aus Armut kommt, braucht andere Wege: Einwanderungsrecht, Entwicklungspolitik. Der Begriff benennt diese Grenze — nicht als moralisches Urteil, sondern als juristische Wegweisung. Ohne sie verspricht das System mehr, als es halten kann, und bricht zuerst dort, wo es am meisten gebraucht wird.
+Ein System, das keine Unterscheidung trifft, kann kein Versprechen halten. Das Asylrecht schützt politisch Verfolgte — nicht jeden, der ein besseres Leben sucht. Wer aus Armut kommt, braucht andere Wege: Einwanderungsrecht, Entwicklungspolitik. Ohne sie verspricht das System mehr, als es halten kann, und bricht zuerst dort, wo es am meisten gebraucht wird.
 
 ---
 
@@ -91,7 +91,7 @@ Ein System, das keine Unterscheidung trifft, kann kein Versprechen halten. Das A
 *   ● **Inversion (dominant):** Kehrt die Realität der Flucht um. Eine Person in existenzieller Not wird zum rational kalkulierenden Wirtschaftsakteur umgedeutet — das schutzbedürftige Opfer zum „Glücksritter“. Ohne diese Umkehrung von Not in Strategie verlöre der Begriff seine politische Schlagkraft.
 *   ● **Kriminalisierung (dominant):** Erzeugt den Frame des „Asylmissbrauchs“. Der Begriff unterstellt, dass die Inanspruchnahme eines Grundrechts in Wahrheit ein Betrugsversuch ist, und rückt die Flucht in die Nähe der Erschleichung von Leistungen.
 *   ● **Ontologisierung (dominant):** Verwandelt eine komplexe Lebensphase in ein unveränderliches Wesen. Der Mensch wird auf sein ökonomisches Motiv reduziert und als „Typus“ markiert — statt als Individuum mit einer Geschichte und Rechten wahrgenommen zu werden.
-*   ◐ **Entpolitisierung:** Privatisiert die Fluchtursachen. Globale Ungleichheit und die Folgen westlicher Wirtschaftspolitik werden ausgeblendet; die Flucht wird zur rein persönlichen Entscheidung erklärt.
+*   ◐ **Entpolitisierung:** Privatisiert die Fluchtursachen. Globale Ungleichheit und die Folgen westlicher Wirtschaftspolitik bleiben unsichtbar; die Flucht erscheint als persönliche Entscheidung.
 *   ◐ **Quantifizierung:** Im Diskurs mit Wassermetaphern verknüpft — „Ströme“, „Flut“ —, um eine unkontrollierbare Masse ökonomischer Interessen zu suggerieren, die das soziale Sicherungssystem zu sprengen droht.
 
 ---

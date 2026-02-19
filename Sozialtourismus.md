@@ -16,13 +16,13 @@ tags:
 
 ## Bedeutung · [K]
 
-Sozialtourismus(*) macht aus dem Rechtsanspruch eine Urlaubsbuchung. Das Wort legt fest, was Migrationsbewegungen sind, noch bevor ein einzelner Fall geprüft wurde: keine Not, sondern Kalkül; keine Schutzsuche, sondern Konsumentscheidung. Der Sozialstaat wird zum Reiseziel, die Leistungsbeziehung zum Betrug am Gastgeber. Das Motiv muss nicht mehr belegt werden — das Wort behauptet es bereits.
+Sozialtourismus(*) macht aus dem Rechtsanspruch eine Urlaubsbuchung. Das Wort legt fest, was Migrationsbewegungen sind, noch bevor ein einzelner Fall geprüft wurde: keine Not, sondern Kalkül; keine Schutzsuche, sondern Konsumentscheidung. Der Sozialstaat wird zum Reiseziel, die Leistungsbeziehung zum Betrug am Gastgeber. Das Motiv ist mit dem Begriff bereits unterstellt.
 
 ---
 
 ## Andere Lesart · [A]
 
-Ein Sozialsystem ist ein Versprechen zwischen Beitragszahlern — an eine Gemeinschaft, nicht an jeden, der ihr Territorium betritt. Die EU-Freizügigkeit schafft Wohlstandsgefälle und damit rationale Anreize: Wer in einem reichen Land Leistungen beziehen kann, ohne dort zu arbeiten, hat jeden Grund, genau das zu tun. Wer das System so nutzt, verschiebt die Last auf alle, die es tragen. Der Begriff benennt diesen Mechanismus. Wer ihn nicht benennen darf, kann ihn auch nicht begrenzen.
+Ein Sozialsystem ist ein Versprechen zwischen Beitragszahlern — an eine Gemeinschaft, nicht an jeden, der ihr Territorium betritt. Die EU-Freizügigkeit schafft Wohlstandsgefälle und damit rationale Anreize: Wer in einem reichen Land Leistungen beziehen kann, ohne dort zu arbeiten, hat jeden Grund, genau das zu tun. Wer das System so nutzt, verschiebt die Last auf alle, die es tragen. Wer das nicht benennen darf, kann es nicht begrenzen.
 
 ---
 
@@ -98,7 +98,7 @@ Ein Sozialsystem ist ein Versprechen zwischen Beitragszahlern — an eine Gemein
 *   ● **Inversion (dominant):** Kehrt die Realität der Migrationsbewegung um. Eine Situation existenzieller Not oder die Ausübung eines verbrieften Rechts (EU-Freizügigkeit) wird zur freiwilligen, hedonistischen Freizeitentscheidung umgedeutet. Der Schutzsuchende wird zum kalkulierenden Konsumenten.
 *   ● **Kriminalisierung (dominant):** Delegitimiert rechtmäßige Ansprüche. Der Bezug von Sozialleistungen wird semantisch in die Nähe von Erschleichung und Betrug gerückt. Das Rechtssubjekt wird zum Missbrauchstäter — noch vor jeder Prüfung.
 *   ● **Euphemismus (dominant):** Nutzt einen positiv besetzten Begriff, um die prekäre Realität der Betroffenen zu verschleiern. Gleichzeitig maskiert er die Härte der geforderten Abwehrmaßnahmen als sachliche Ordnungspolitik gegen Urlauber.
-*   ◐ **Ethnisierung:** Obwohl das Wort keine Ethnie nennt, wird es diskursiv fast ausschließlich gegen spezifische Gruppen eingesetzt — Roma, Osteuropäer, Ukrainer. Es rahmt soziale Verteilungskonflikte als Problem fremder Kulturen.
+*   ◐ **Ethnisierung:** Im Diskurs trifft es fast durchgehend spezifische Gruppen — Roma, Osteuropäer, Ukrainer. Es rahmt soziale Verteilungskonflikte als Problem fremder Kulturen.
 *   ◐ **Quantifizierung:** Durch Tourismus-Metaphern — „Ansturm“, „Saison“, „Wellen“ — entsteht die Vorstellung einer unkontrollierbaren Masse, die die Infrastruktur des Sozialsystems zu überlasten droht.
 
 ---

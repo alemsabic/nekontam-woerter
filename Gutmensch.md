@@ -16,13 +16,13 @@ tags:
 
 ## Bedeutung · [K]
 
-Gutmensch(*) greift nicht das Argument an — es greift das Motiv an. Das Wort macht aus *Warum setzt du dich ein?* die Frage *Was willst du damit beweisen?* — und verwandelt Überzeugung in Eitelkeit, Empathie in Pose. Wer so bezeichnet wird, muss fortan nicht mehr ein Argument entkräften, sondern beweisen, dass sein Engagement keine Selbstdarstellung ist: eine Beweislast, die das Wort selbst erzeugt hat. Wer die Diagnose ausgesprochen hat, muss die Debatte nicht mehr führen — der Typus hat sie bereits verlassen.
+Gutmensch(*) greift nicht das Argument an — es greift das Motiv an. Das Wort macht aus *Warum setzt du dich ein?* die Frage *Was willst du damit beweisen?* — und verwandelt Überzeugung in Eitelkeit, Empathie in Pose. Wer so bezeichnet wird, muss fortan nicht mehr ein Argument entkräften, sondern beweisen, dass sein Engagement keine Selbstdarstellung ist. Wer die Diagnose ausgesprochen hat, muss die Debatte nicht mehr führen — der Typus hat sie bereits verlassen.
 
 ---
 
 ## Andere Lesart · [A]
 
-Begrenzte Ressourcen, konkurrierende Interessen. Jemand wird enttäuscht werden. Das ist nicht das Versagen der Politik — das ist die Politik selbst. Wer das ausspricht, bekommt den Vorwurf der Kälte zu hören, schneller als jedes Sachargument. Solche Vorwürfe kommen von Menschen, die sich den Komfort der reinen Haltung leisten können — weil sie die Konsequenzen nicht tragen. Wer das benennt, ist nicht herzlos; er fordert nur zurück, was jede ernsthafte Politik braucht: die Bereitschaft, die Welt zu nehmen, wie sie ist.
+Begrenzte Ressourcen, konkurrierende Interessen. Jemand wird enttäuscht werden. Das ist nicht das Versagen der Politik — das ist die Politik selbst. Wer das ausspricht, bekommt den Vorwurf der Kälte zu hören, schneller als jedes Sachargument. Solche Vorwürfe kommen aus Positionen, die von den Konsequenzen nicht direkt betroffen sind. Wer das benennt, ist nicht herzlos; er fordert nur zurück, was jede ernsthafte Politik braucht: die Bereitschaft, die Welt zu nehmen, wie sie ist.
 
 ---
 
@@ -84,7 +84,7 @@ Begrenzte Ressourcen, konkurrierende Interessen. Jemand wird enttäuscht werden.
 *   ● **Inversion (dominant):** Kehrt die moralische Bewertung um. Ein ethisches Ideal — gut sein, empathisch handeln — wird in einen Makel verwandelt. Wer Gutes will, wird verdächtig; wer das benennt, gilt als der einzige Realist im Raum.
 *   ● **Infantilisierung (dominant):** Markiert den Adressaten als naiv, weltfremd und ungeschützt gegenüber der „harten Realität“. Politische Positionen werden nicht inhaltlich kritisiert, sondern als kindliche Impulse abgetan — was dem Gegenüber die diskursive Urteilsfähigkeit entzieht.
 *   ● **Ontologisierung (dominant):** Macht aus einer Haltung ein unveränderliches Wesen. „Ein Gutmensch“ — nicht jemand, der gerade naiv argumentiert, sondern was er ist. Das Individuum verschwindet hinter der Karikatur; Sachargumente treffen auf einen Typus, nicht mehr auf einen Menschen.
-*   ◐ **Pathologisierung:** Schwingt durch Begleitbegriffe wie „Helfersyndrom“ oder „Gutmenschenwahn“ mit. Moralisches Handeln wird als psychischer Defekt geframed — der Sprecher positioniert sich als der einzig Gesunde und Rationale.
+*   ◐ **Pathologisierung:** Begleitbegriffe wie „Helfersyndrom“ oder „Gutmenschenwahn“ rahmen moralisches Handeln als psychischen Defekt — der Sprecher positioniert sich als der einzig Gesunde und Rationale.
 *   ◐ **Entmenschlichung:** Durch die radikale Typisierung verliert der Betroffene die Würde des ernstzunehmenden Gesprächspartners. Er wird zum ideologischen Automaten, dessen Handeln keinen rationalen Kern hat.
 
 ---
