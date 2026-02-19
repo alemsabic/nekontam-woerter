@@ -16,7 +16,7 @@ tags:
 
 ## Bedeutung · [K]
 
-Gutmensch(*) greift nicht das Argument an — es greift das Motiv an. Das Wort macht aus *Warum setzt du dich ein?* die Frage *Was willst du damit beweisen?* — und verwandelt Überzeugung in Eitelkeit, Empathie in Pose. Wer so bezeichnet wird, muss fortan nicht mehr ein Argument entkräften, sondern beweisen, dass sein Engagement keine Selbstdarstellung ist. Wer die Diagnose ausgesprochen hat, muss die Debatte nicht mehr führen — der Typus hat sie bereits verlassen.
+Gutmensch(*) greift nicht das Argument an — es greift das Motiv an. Überzeugung erscheint als Eitelkeit, Empathie als Pose, Engagement als Selbstdarstellung. Wer so bezeichnet wird, hat keine Sachfrage mehr zu beantworten — er hat zu beweisen, dass er das, was er vertritt, wirklich meint. Das Wort hat die Debatte gewonnen, bevor sie geführt wurde.
 
 ---
 
