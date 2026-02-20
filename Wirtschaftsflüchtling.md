@@ -12,7 +12,7 @@ tags:
 
 ## Aufbau
 
-„Wirtschaft” (Motiv) + „Flüchtling” (Status) = Die Flucht wird zum Kalkül — der Schutzsuchende zum Marktakteur.
+„Wirtschaft” (Motiv) + „Flüchtling” (Status) = Die Flucht wird zum Kalkül.
 
 ## Bedeutung · [K]
 
