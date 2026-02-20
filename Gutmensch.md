@@ -52,7 +52,7 @@ Begrenzte Ressourcen, konkurrierende Interessen. Jemand wird enttäuscht werden.
 #### 2018
 
 > [!affirmativ] Affirmativ
-> »Ich habe auch den Eindruck, dass das, was wir unter Realpolitik verstehen, in Ihrem Hause immer als Moralpolitik angesehen wird. Wir sind davon überzeugt, dass Realpolitik im deutschen Interesse die Marschrichtung für die deutsche Außenpolitik sein muss. Die Moralpolitik – quasi nach dem Motto „Am deutschen Wesen soll die Welt genesen“ – machen Sie bei vielen Aktivitäten, auch bei militärischen, immer wieder geltend. Das führt für meine Begriffe zu einem **Gutmenschenkolonialismus** – ja, es ist ein **Gutmenschenkolonialismus**, wenn es heißt: „Am deutschen Wesen soll die Welt genesen“«
+> »Ich habe auch den Eindruck, dass das, was wir unter Realpolitik verstehen, in Ihrem Hause immer als Moralpolitik angesehen wird. Wir sind davon überzeugt, dass Realpolitik im deutschen Interesse die Marschrichtung für die deutsche Außenpolitik sein muss. Die Moralpolitik – quasi nach dem Motto „Am deutschen Wesen soll die Welt genesen”[^1] – machen Sie bei vielen Aktivitäten, auch bei militärischen, immer wieder geltend. Das führt für meine Begriffe zu einem **Gutmenschenkolonialismus** – ja, es ist ein **Gutmenschenkolonialismus**, wenn es heißt: „Am deutschen Wesen soll die Welt genesen”«
 >
 > — **Armin-Paulus Hampel** (AfD) · [@hampel_2018_03_21]
 
@@ -90,3 +90,5 @@ Begrenzte Ressourcen, konkurrierende Interessen. Jemand wird enttäuscht werden.
 ---
 
 <aside>(*) <strong>Abgrenzung:</strong> Nicht gemeint, wenn der Begriff bewusst ironisch als Selbstbezeichnung oder Ehrentitel verwendet wird — eine Umdeutung, die seinen pejorativen Ursprung kennt und ihn bewusst unterläuft.</aside>
+
+[^1]: Zeile aus Emanuel Geibels Gedicht „Deutschlands Beruf" (1861). Als Motto des deutschen Nationalismus geprägt — Wilhelm II. nutzte sie zur Rechtfertigung imperialer Politik. Die Neue Rechte greift sie als Chiffre für kulturellen Hegemonialanspruch auf.
