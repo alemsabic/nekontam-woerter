@@ -13,7 +13,6 @@ wort-fabrik/
 # Interne Dokumentation
 CLAUDE.md
 GEMINI.md
-TUDAS.md
 
 # Python
 __pycache__/

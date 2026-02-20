@@ -91,7 +91,7 @@ Ein Sozialstaat funktioniert nur als geschlossene Solidargemeinschaft. Wer ohne 
 
 *   ● **Euphemismus (dominant):** Ein wertneutraler, technokratisch klingender Begriff aus der Migrationssoziologie wird zweckentfremdet, um die Gewaltförmigkeit von Massendeportationen zu verschleiern. Die Abstraktion immunisiert gegen die menschliche Tragweite der Forderung.
 *   ● **Inversion (dominant):** Kehrt das Täter-Opfer-Verhältnis um. Durch die Umdeutung von Gewalt in „Rückwanderung“ erscheint die Zerstörung des sozialen Friedens als dessen Wiederherstellung — die Aggression als Notwehr.
-*   ● **Ethnisierung (dominant):** Macht kulturelle oder ethnische Zugehörigkeit zum alleinigen Kriterium für das Aufenthaltsrecht. Aus dem Individuum wird der Angehörige einer Herkunft.
+*   ● **Ethnisierung (dominant):** Macht kulturelle oder ethnische Zugehörigkeit zum alleinigen Kriterium für das Aufenthaltsrecht. Der Begriff entzieht Menschen ihre Individualität und reduziert sie auf ihre Herkunft.
 *   ◐ **Quantifizierung:** Behandelt Menschen als Verschiebemasse. Verknüpft mit Wassermetaphern (die „Flut“ umkehren), verstärkt das die Entmenschlichung durch Massenhaftigkeit.
 *   ◐ **Temporalisierung:** Erzeugt apokalyptischen Zeitdruck. Remigration wird als „letzte Chance“ vor dem demografischen Kollaps dargestellt — künstlicher Druck soll radikale Maßnahmen als alternativlos erscheinen lassen.
 
