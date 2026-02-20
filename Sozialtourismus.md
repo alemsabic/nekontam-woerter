@@ -95,9 +95,9 @@ Ein Sozialsystem ist ein Versprechen zwischen Beitragszahlern — an eine Gemein
 
 ## Mechanismen
 
-*   ● **Inversion (dominant):** „Tourismus” bedeutet Freizeitreise — freiwillig, konsumgesteuert, hedonistisch. Das Wort setzt dies gleich mit existenzieller Not oder der Ausübung eines verbrieften Rechts. **Zoom:** Die Wahl von „Tourismus” — nicht „Migration” oder „Zuwanderung” — ist rhetorisch präzise: Tourismus ist die maximale Gegenwelt zur Notlage. Inversion funktioniert umso stärker, je absurder die Gleichsetzung ist. Das Wort wählt nicht irgendein Gegenteil — es wählt das fernstmögliche.
-*   ● **Kriminalisierung (dominant):** Aus einem Rechtsanspruch wird Betrug. EU-Freizügigkeit ist verbriefte Norm — der Begriff stellt sie als Systemausnutzung dar, als Missbrauch einer Lücke, die geschlossen werden müsste. Das Rechtssubjekt ist schuldig, bevor ein Verfahren eröffnet ist.
-*   ● **Euphemismus (dominant):** „Tourismus” klingt leicht, saisonal, harmlos. Wer dagegen Maßnahmen fordert, fordert keine Härte — er reguliert lediglich den Fremdenverkehr. Die Abwehrpolitik erscheint als Ordnungspflege.
+*   ● **Inversion (im Fokus):** „Tourismus” bedeutet Freizeitreise — freiwillig, konsumgesteuert, hedonistisch. Das Wort setzt dies gleich mit existenzieller Not oder der Ausübung eines verbrieften Rechts. Die Wahl von „Tourismus” — nicht „Migration” oder „Zuwanderung” — ist rhetorisch präzise: Tourismus ist die maximale Gegenwelt zur Notlage. Inversion funktioniert umso stärker, je absurder die Gleichsetzung ist. Das Wort wählt nicht irgendein Gegenteil — es wählt das fernstmögliche.
+*   ● **Kriminalisierung:** Aus einem Rechtsanspruch wird Betrug. EU-Freizügigkeit ist verbriefte Norm — der Begriff stellt sie als Systemausnutzung dar, als Missbrauch einer Lücke, die geschlossen werden müsste. Das Rechtssubjekt ist schuldig, bevor ein Verfahren eröffnet ist.
+*   ● **Euphemismus:** „Tourismus” klingt leicht, saisonal, harmlos. Wer dagegen Maßnahmen fordert, fordert keine Härte — er reguliert lediglich den Fremdenverkehr. Die Abwehrpolitik erscheint als Ordnungspflege.
 *   ◐ **Ethnisierung:** Im Diskurs trifft der Begriff fast durchgehend spezifische Gruppen — Roma, Osteuropäer, Ukrainer. Der ethnische Adressat ist nicht im Wort codiert, aber diskursiv konstitutiv: Nicht im Wort selbst, sondern in seiner Anwendungsgeschichte.
 *   ◐ **Quantifizierung:** Mit Tourismus-Metaphern — „Ansturm”, „Saison”, „Welle” — entsteht das Bild einer Flut, die das Sozialsystem überschwemmt. Die Metapher verwandelt Individuen in eine Naturgewalt.
 

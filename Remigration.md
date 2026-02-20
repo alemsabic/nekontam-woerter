@@ -89,11 +89,11 @@ Ein Sozialstaat funktioniert nur als geschlossene Solidargemeinschaft. Wer ohne 
 
 ## Mechanismen
 
-*   ● **Euphemismus (dominant):** Das Präfix „Re-” suggeriert eine Korrektur — als sei Migration ein Irrtum, der sich rückgängig machen lässt. Der bürokratisch-neutrale Klang des Kompositums installiert Massendeportationen als Verwaltungsvorgang: rationell, geordnet, unaufgeregt.
-*   ● **Inversion (dominant):** Die Anwesenheit der Betroffenen gilt als Angriff — ihre Vertreibung als Notwehr. Das Wort verschiebt die Rollen, bevor irgendein Argument geprüft wird: der Deportierte erscheint als Aggressor, der Deportierende als Verteidigter.
-*   ● **Ethnisierung (dominant):** Aufenthaltsdauer, Staatsbürgerschaft, Lebensleistung werden irrelevant. Das Wort setzt Herkunft als einziges und endgültiges Kriterium für Zugehörigkeit — und macht es unverhandelbar.
+*   ● **Euphemismus:** Das Präfix „Re-” suggeriert eine Korrektur — als sei Migration ein Irrtum, der sich rückgängig machen lässt. Der bürokratisch-neutrale Klang des Kompositums installiert Massendeportationen als Verwaltungsvorgang: rationell, geordnet, unaufgeregt.
+*   ● **Inversion:** Die Anwesenheit der Betroffenen gilt als Angriff — ihre Vertreibung als Notwehr. Das Wort verschiebt die Rollen, bevor irgendein Argument geprüft wird: der Deportierte erscheint als Aggressor, der Deportierende als Verteidigter.
+*   ● **Ethnisierung:** Aufenthaltsdauer, Staatsbürgerschaft, Lebensleistung werden irrelevant. Das Wort setzt Herkunft als einziges und endgültiges Kriterium für Zugehörigkeit — und macht es unverhandelbar.
 *   ◐ **Quantifizierung:** Menschen werden zur Verschiebemasse. Im Diskurs mit Wassermetaphern verknüpft — die „Flut” umkehren, den „Strom” wenden — entsteht das Bild einer anonymen Masse ohne individuelle Geschichten.
-*   ◐ **Temporalisierung:** Der Begriff wird regelmäßig mit apokalyptischem Zeitdruck kombiniert — „letzte Chance”, „demografischer Kollaps”, „jetzt oder nie”. **Zoom:** Nicht die Forderung selbst, sondern die Dringlichkeit ist das rhetorische Werkzeug. Wer den Ausnahmezustand deklariert, suspendiert die Abwägung: Unter Zeitdruck gelten andere Regeln. Die Dringlichkeit wird nicht beschrieben — sie wird produziert.
+*   ◐ **Temporalisierung (im Fokus):** Der Begriff wird regelmäßig mit apokalyptischem Zeitdruck kombiniert — „letzte Chance”, „demografischer Kollaps”, „jetzt oder nie”. Nicht die Forderung selbst, sondern die Dringlichkeit ist das rhetorische Werkzeug. Wer den Ausnahmezustand deklariert, suspendiert die Abwägung: Unter Zeitdruck gelten andere Regeln. Die Dringlichkeit wird nicht beschrieben — sie wird produziert.
 
 ---
 

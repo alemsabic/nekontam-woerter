@@ -88,9 +88,9 @@ Ein System, das keine Unterscheidung trifft, kann kein Versprechen halten. Das A
 
 ## Mechanismen
 
-*   ● **Inversion (dominant):** Aus existenzieller Not wird strategisches Kalkül. Das Wort setzt einen rationalen Akteur voraus, der Märkte vergleicht — nicht einen Menschen, der keine Wahl hat. Was Schutz verdiente, erscheint als Konkurrenz.
-*   ● **Kriminalisierung (dominant):** Der Begriff unterstellt Absicht: wer „Wirtschaftsgründe” hat, missbraucht ein System, das für andere gedacht ist. Aus der Inanspruchnahme eines Grundrechts wird Erschleichung — der Verdacht ist eingebaut, bevor ein Verfahren beginnt.
-*   ● **Ontologisierung (dominant):** Das Kompositum macht aus einer Lebenssituation eine Gattung. Nicht: jemand, der aus wirtschaftlichen Gründen geflohen ist — sondern: ein Wirtschaftsflüchtling, eine unveränderliche Art von Mensch. **Zoom:** Der Suffix „-ling” ist im Deutschen produktiv für Typisierung — er macht aus Situationen Wesen (vgl. Lehrling, Prüfling). Das Wort braucht kein Argument: Die Grammatik hat die Arbeit erledigt, bevor der erste Satz gesprochen ist.
+*   ● **Inversion:** Aus existenzieller Not wird strategisches Kalkül. Das Wort setzt einen rationalen Akteur voraus, der Märkte vergleicht — nicht einen Menschen, der keine Wahl hat. Was Schutz verdiente, erscheint als Konkurrenz.
+*   ● **Kriminalisierung:** Der Begriff unterstellt Absicht: wer „Wirtschaftsgründe” hat, missbraucht ein System, das für andere gedacht ist. Aus der Inanspruchnahme eines Grundrechts wird Erschleichung — der Verdacht ist eingebaut, bevor ein Verfahren beginnt.
+*   ● **Ontologisierung (im Fokus):** Das Kompositum macht aus einer Lebenssituation eine Gattung. Nicht: jemand, der aus wirtschaftlichen Gründen geflohen ist — sondern: ein Wirtschaftsflüchtling, eine unveränderliche Art von Mensch. Der Suffix „-ling” ist im Deutschen produktiv für Typisierung — er macht aus Situationen Wesen (vgl. Lehrling, Prüfling). Das Wort braucht kein Argument: Die Grammatik hat die Arbeit erledigt, bevor der erste Satz gesprochen ist.
 *   ◐ **Entpolitisierung:** Die Fluchtursachen werden privatisiert. Globale Ungleichgewichte, Handelspolitik, Ressourcenkonflikte verschwinden — übrig bleibt der individuelle Entschluss: dieser Mensch wollte mehr.
 *   ◐ **Quantifizierung:** Im Diskurs regelmäßig mit „Strömen” und „Fluten” verknüpft — die Masse anonymisiert, was das Kompositum bereits typisiert hat: nicht dieser Mensch, sondern diese Welle.
 
