@@ -12,7 +12,7 @@ tags:
 
 ## Aufbau
 
-„Wirtschaft“ (Motiv) + „Flüchtling“ (Status) = Du fliehst nicht, du optimierst.
+„Wirtschaft” (Motiv) + „Flüchtling” (Status) = Die Flucht wird zum Kalkül — der Schutzsuchende zum Marktakteur.
 
 ## Bedeutung · [K]
 
@@ -22,7 +22,7 @@ Wirtschaftsflüchtling(*) fällt das Urteil, bevor der Fall geprüft ist. Das Wo
 
 ## Andere Lesart · [A]
 
-Ein System, das keine Unterscheidung trifft, kann kein Versprechen halten. Das Asylrecht schützt politisch Verfolgte — nicht jeden, der ein besseres Leben sucht. Wer aus Armut kommt, braucht andere Wege: Einwanderungsrecht, Entwicklungspolitik. Ohne sie verspricht das System mehr, als es halten kann, und bricht zuerst dort, wo es am meisten gebraucht wird.
+Das Asylrecht schützt vor Verfolgung — nicht vor Armut. Das ist keine Willkür, sondern seine Bedingung: Ein Recht, das jeden schützt, schützt niemanden besonders. Wer aus existenzieller Not flieht, verdient eine Antwort — aber eine andere: geregelte Einwanderung, Arbeitsmigration, legale Wege. Wer diese Unterscheidung auflöst, löst den Schutz auf. Ein System ohne Grenze verspricht mehr, als es halten kann — und bricht zuerst bei denen ein, die am meisten darauf angewiesen sind: bei politisch Verfolgten, für die kein anderer Weg offensteht.
 
 ---
 

@@ -22,7 +22,7 @@ Gutmensch(*) greift nicht das Argument an — es greift das Motiv an. Überzeugu
 
 ## Andere Lesart · [A]
 
-Begrenzte Ressourcen, konkurrierende Interessen. Jemand wird enttäuscht werden. Das ist nicht das Versagen der Politik — das ist die Politik selbst. Wer das ausspricht, bekommt den Vorwurf der Kälte zu hören, schneller als jedes Sachargument. Solche Vorwürfe kommen aus Positionen, die von den Konsequenzen nicht direkt betroffen sind. Wer das benennt, ist nicht herzlos; er fordert nur zurück, was jede ernsthafte Politik braucht: die Bereitschaft, die Welt zu nehmen, wie sie ist.
+Begrenzte Ressourcen, konkurrierende Interessen. Jemand wird enttäuscht werden — das ist nicht das Versagen der Politik, das ist die Politik selbst. Wer entscheidet, trägt Konsequenzen. Wer nur urteilt, nicht. Das ist die Asymmetrie: wer von den Folgen nicht betroffen ist, kann Forderungen stellen, die kein System erfüllen kann — und die Kosten tragen andere. Moralisches Engagement ohne Haftung ist keine Stärke; es ist deren bequeme Variante. Wer das benennt, ist nicht herzlos; er fordert nur zurück, was jede ernsthafte Politik braucht: die Bereitschaft, die Welt zu nehmen, wie sie ist.
 
 ---
 

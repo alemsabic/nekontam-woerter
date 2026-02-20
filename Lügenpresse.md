@@ -13,7 +13,7 @@ tags:
 
 ## Aufbau
 
-„Lügen-" (voller Lügen, Absicht als Bedingung) + „-presse" (die Institution, nicht die Einzelzeitung) = Das Kompositum überträgt die Eigenschaft des Einzelfehlers auf das Gesamtgebäude — als wäre die Eigenschaft nicht Merkmal, sondern Wesenskern.
+„Lügen-" (Absicht als Bedingung) + „-presse" (die Institution, nicht die Einzelzeitung) = Der Fehler einer Redaktion wird zur Natur aller Medien.
 
 ## Bedeutung · [K]
 
@@ -23,7 +23,7 @@ Das Wort greift nicht den Wahrheitsgehalt eines einzelnen Artikels an — es gre
 
 ## Andere Lesart · [A]
 
-Der Sprecher erlebt eine Lücke, die sich nicht durch Zufall erklären lässt: was er in seiner Alltagswirklichkeit wahrnimmt — gestiegene Kriminalität, kulturelle Verschiebungen, wirtschaftlicher Druck — findet in der etablierten Berichterstattung keinen Widerhall. Nicht gelegentlich und nicht zufällig, sondern mit einer Regelmäßigkeit, die koordiniertes Schweigen nahelegt. Das Wort schließt diese Erklärungslücke: nicht viele kleine Versehen verstreut über viele Redaktionen, sondern eine Institution mit einer Agenda. Wer das einmal so sieht, gehört zu jenen, die aufgehört haben, sich täuschen zu lassen — das ist die initiatorische Kraft des Begriffs: nicht nur Diagnose, sondern Mitgliedschaft.
+Es gibt eine Lücke: was in der Alltagswahrnehmung sichtbar ist — gestiegene Kriminalität, kulturelle Verschiebungen, wirtschaftlicher Druck — findet in der etablierten Berichterstattung keinen Widerhall. Nicht gelegentlich und nicht zufällig, sondern mit einer Regelmäßigkeit, die koordiniertes Schweigen nahelegt. Das Wort schließt diese Erklärungslücke: nicht viele kleine Versehen verstreut über viele Redaktionen, sondern eine Institution mit einer Agenda. Wer das einmal so sieht, gehört zu jenen, die aufgehört haben, sich täuschen zu lassen — das ist die initiatorische Kraft des Begriffs: nicht nur Diagnose, sondern Mitgliedschaft.
 
 ---
 

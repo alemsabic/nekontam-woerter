@@ -16,13 +16,13 @@ tags:
 
 ## Bedeutung · [K]
 
-Sozialtourismus(*) macht aus dem Rechtsanspruch eine Urlaubsbuchung. Das Wort legt fest, was Migrationsbewegungen sind, noch bevor ein einzelner Fall geprüft wurde: keine Not, sondern Kalkül; keine Schutzsuche, sondern Konsumentscheidung. Der Sozialstaat wird zum Reiseziel, die Leistungsbeziehung zum Betrug am Gastgeber. Das Motiv ist mit dem Begriff bereits unterstellt.
+Sozialtourismus(*) macht aus dem Rechtsanspruch eine Urlaubsbuchung. Das Wort legt fest, was Migrationsbewegungen sind, noch bevor ein einzelner Fall geprüft wurde: keine Not, sondern Kalkül; keine Schutzsuche, sondern Konsumentscheidung. Der Sozialstaat wird zum Reiseziel, die Leistungsbeziehung zum Betrug am Gastgeber. Das Motiv ist mit dem Begriff bereits unterstellt — der Antrag ist der Beweis.
 
 ---
 
 ## Andere Lesart · [A]
 
-Ein Sozialsystem ist ein Versprechen zwischen Beitragszahlern — an eine Gemeinschaft, nicht an jeden, der ihr Territorium betritt. Die EU-Freizügigkeit schafft Wohlstandsgefälle und damit rationale Anreize: Wer in einem reichen Land Leistungen beziehen kann, ohne dort zu arbeiten, hat jeden Grund, genau das zu tun. Wer das System so nutzt, verschiebt die Last auf alle, die es tragen. Wer das nicht benennen darf, kann es nicht begrenzen.
+Ein Sozialsystem ist ein Versprechen zwischen Beitragszahlern — an eine Gemeinschaft, nicht an jeden, der ihr Territorium betritt. Die EU-Freizügigkeit schafft Wohlstandsgefälle und damit rationale Anreize: Wer in einem reichen Land Leistungen beziehen kann, ohne dort gearbeitet zu haben, folgt einer Logik, die das System selbst produziert. Das ist kein moralisches Versagen — das ist Systemdesign. Offene Systeme setzen Anreize; wer diese Anreize nicht begrenzt, kann die Ergebnisse nicht beklagen. Wer das nicht benennen darf, kann es nicht begrenzen.
 
 ---
 
