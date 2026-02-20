@@ -82,15 +82,11 @@ Der Sprecher erlebt eine Lücke, die sich nicht durch Zufall erklären lässt: w
 
 ## Mechanismen
 
-*   ● **Inversion (dominant):** Kehrt die Schutzfunktion um. Die freie Presse, die Mächtige kontrolliert, wird selbst zur Macht erklärt — zur Täterinstanz, die das Volk manipuliert. Die Watchdog-Funktion wird in ihr Gegenteil verkehrt: Pressefreiheit nicht als Schutz vor Mächtigen, sondern als Werkzeug der Mächtigen.
-
-*   ● **Kriminalisierung (dominant):** Das Wort setzt Absicht voraus — „Lüge" ist keine Falschaussage, sondern Täuschung. Jeder Fehler wird zum Verbrechen, jede Auslassung zur Strategie.
-
-*   ● **Ontologisierung (dominant):** Macht aus einem Zustand ein Wesen. Nicht: „diese Zeitung hat gelogen" — sondern: die Presse *ist* eine Lügenpresse. Das Kompositum verhindert Differenzierung: einzelne Medien, einzelne Artikel, einzelne Fehler existieren nicht mehr — nur noch die Institution als unveränderliche Einheit.
-
-*   ◐ **Entpolitisierung (teilweise):** Das Wort tarnt einen politischen Angriff auf die Pressefreiheit als epistemische Kritik — als Frage der Wahrheit, nicht der Macht. Wer „Lügenpresse" sagt, behauptet, keine politische Agenda zu verfolgen, sondern nur die Wahrheit zu verteidigen.
-
-*   ◐ **Militarisierung (teilweise):** Das Wort selbst enthält keine Militarisierung — im PEGIDA- und AfD-Kontext nimmt es sie jedoch regelmäßig auf: „Kampf gegen die Lügenpresse", „Widerstand". Der Mechanismus liegt nicht im Begriff, sondern in seinem konstitutiven Verwendungskontext.
+*   ● **Inversion (dominant):** Die freie Presse, die Mächtige kontrolliert, wird selbst zur Macht erklärt — zur Täterinstanz, die das Volk manipuliert. Was Schutz vor Mächtigen ist, gilt als Werkzeug der Mächtigen.
+*   ● **Kriminalisierung (dominant):** „Lüge" ist keine Falschaussage — sie setzt Absicht voraus. Das Wort erhebt die Anklage auf Täuschung, bevor ein konkreter Fehler benannt ist. Jede Korrektur, jede Lücke, jede andere Gewichtung gilt seitdem als Beleg.
+*   ● **Ontologisierung (dominant):** „Die Lügenpresse" ist keine Beschreibung einzelner Artikel oder Fehler — sie ist eine Wesenskategorie. Das Kompositum macht aus Ereignissen eine Eigenschaft, aus einer Institution ein Wesen mit festem Charakter. **Zoom:** „Die Lügenpresse lügt" ist eine Tautologie — aber die Tautologie ist unsichtbar, weil die Ontologisierung grammatisch vollzogen ist. Vergleich: „Eine Zeitung hat falsch berichtet" erfordert Belege; „die Lügenpresse lügt" erfordert keine. Das Wort schafft eine Kategorie, die sich selbst beweist.
+*   ◐ **Entpolitisierung:** Der Angriff auf die Pressefreiheit erscheint als epistemische Kritik — als Frage der Wahrheit, nicht der Macht. Wer „Lügenpresse" sagt, behauptet keine politische Agenda, sondern Wahrheitsliebe.
+*   ◐ **Militarisierung:** Das Wort selbst ist zivil — im PEGIDA- und AfD-Kontext nimmt es Kriegsvokabular auf: „Kampf gegen die Lügenpresse", „Widerstand", „Front". Der Mechanismus liegt nicht im Begriff, sondern in seinem habituellen Verwendungsrahmen.
 
 ---
 

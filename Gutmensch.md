@@ -81,11 +81,11 @@ Begrenzte Ressourcen, konkurrierende Interessen. Jemand wird enttäuscht werden.
 
 ## Mechanismen
 
-*   ● **Inversion (dominant):** Kehrt die moralische Bewertung um. Ein ethisches Ideal — gut sein, empathisch handeln — wird in einen Makel verwandelt. Wer Gutes will, wird verdächtig; wer das benennt, gilt als der einzige Realist im Raum.
-*   ● **Infantilisierung (dominant):** Markiert den Adressaten als naiv, weltfremd und ungeschützt gegenüber der „harten Realität“. Politische Positionen werden nicht inhaltlich kritisiert, sondern als kindliche Impulse abgetan — was dem Gegenüber die diskursive Urteilsfähigkeit entzieht.
-*   ● **Ontologisierung (dominant):** Macht aus einer Haltung ein unveränderliches Wesen. „Ein Gutmensch“ — nicht jemand, der gerade naiv argumentiert, sondern was er ist. Das Individuum verschwindet hinter der Karikatur; Sachargumente treffen auf einen Typus, nicht mehr auf einen Menschen.
-*   ◐ **Pathologisierung:** Begleitbegriffe wie „Helfersyndrom“ oder „Gutmenschenwahn“ rahmen moralisches Handeln als psychischen Defekt — der Sprecher positioniert sich als der einzig Gesunde und Rationale.
-*   ◐ **Entmenschlichung:** Durch die radikale Typisierung verliert der Betroffene die Würde des ernstzunehmenden Gesprächspartners. Er wird zum ideologischen Automaten, dessen Handeln keinen rationalen Kern hat.
+*   ● **Inversion (dominant):** Ein ethisches Ideal — empathisch handeln, Gutes wollen — wird in ein Stigma verwandelt. Das Wort dreht die moralische Achse: Wer Mitgefühl zeigt, verdächtigt sich; wer das benennt, gilt als der einzige Realist.
+*   ● **Infantilisierung (dominant):** Politische Positionen werden nicht inhaltlich widerlegt — sie werden kindlich gemacht. Der Adressat kennt die Realität nicht, lässt sich von Gefühlen leiten, schützt sich nicht vor Konsequenzen. **Zoom:** Infantilisierung ist immer ein epistemologischer Angriff: nicht du bist naiv — du weißt nicht, wie die Welt wirklich funktioniert. Wer moralisch argumentiert, beansprucht eine Art Wissen. Das Wort bestreitet diesen Anspruch — nicht durch ein Gegenargument, sondern durch eine Diagnose.
+*   ● **Ontologisierung (dominant):** Aus einer Haltung wird ein Wesen. Nicht: jemand, der gerade naiv argumentiert — sondern: ein Gutmensch, endgültig und unveränderbar. Argumente treffen auf einen Typus, nicht mehr auf einen Menschen.
+*   ◐ **Pathologisierung:** Begleitbegriffe wie „Helfersyndrom” oder „Gutmenschenwahn” rahmen moralisches Handeln als psychischen Defekt. Wer das Richtige will, ist krank; wer es benennt, der Gesunde.
+*   ◐ **Entmenschlichung:** Der Adressat verliert die Würde des Gesprächspartners. Er wird zum ideologischen Automaten, dessen Handeln keinen rationalen Kern hat — und den man deshalb nicht widerlegen, sondern nur entlarven muss.
 
 ---
 

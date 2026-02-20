@@ -95,11 +95,11 @@ Ein Sozialsystem ist ein Versprechen zwischen Beitragszahlern — an eine Gemein
 
 ## Mechanismen
 
-*   ● **Inversion (dominant):** Kehrt die Realität der Migrationsbewegung um. Eine Situation existenzieller Not oder die Ausübung eines verbrieften Rechts (EU-Freizügigkeit) wird zur freiwilligen, hedonistischen Freizeitentscheidung umgedeutet. Der Schutzsuchende wird zum kalkulierenden Konsumenten.
-*   ● **Kriminalisierung (dominant):** Delegitimiert rechtmäßige Ansprüche. Der Bezug von Sozialleistungen wird semantisch in die Nähe von Erschleichung und Betrug gerückt. Das Rechtssubjekt wird zum Missbrauchstäter — noch vor jeder Prüfung.
-*   ● **Euphemismus (dominant):** Nutzt einen positiv besetzten Begriff, um die prekäre Realität der Betroffenen zu verschleiern. Gleichzeitig maskiert er die Härte der geforderten Abwehrmaßnahmen als sachliche Ordnungspolitik gegen Urlauber.
-*   ◐ **Ethnisierung:** Im Diskurs trifft es fast durchgehend spezifische Gruppen — Roma, Osteuropäer, Ukrainer. Es rahmt soziale Verteilungskonflikte als Problem fremder Kulturen.
-*   ◐ **Quantifizierung:** Durch Tourismus-Metaphern — „Ansturm“, „Saison“, „Wellen“ — entsteht die Vorstellung einer unkontrollierbaren Masse, die die Infrastruktur des Sozialsystems zu überlasten droht.
+*   ● **Inversion (dominant):** „Tourismus” bedeutet Freizeitreise — freiwillig, konsumgesteuert, hedonistisch. Das Wort setzt dies gleich mit existenzieller Not oder der Ausübung eines verbrieften Rechts. **Zoom:** Die Wahl von „Tourismus” — nicht „Migration” oder „Zuwanderung” — ist rhetorisch präzise: Tourismus ist die maximale Gegenwelt zur Notlage. Inversion funktioniert umso stärker, je absurder die Gleichsetzung ist. Das Wort wählt nicht irgendein Gegenteil — es wählt das fernstmögliche.
+*   ● **Kriminalisierung (dominant):** Aus einem Rechtsanspruch wird Betrug. EU-Freizügigkeit ist verbriefte Norm — der Begriff stellt sie als Systemausnutzung dar, als Missbrauch einer Lücke, die geschlossen werden müsste. Das Rechtssubjekt ist schuldig, bevor ein Verfahren eröffnet ist.
+*   ● **Euphemismus (dominant):** „Tourismus” klingt leicht, saisonal, harmlos. Wer dagegen Maßnahmen fordert, fordert keine Härte — er reguliert lediglich den Fremdenverkehr. Die Abwehrpolitik erscheint als Ordnungspflege.
+*   ◐ **Ethnisierung:** Im Diskurs trifft der Begriff fast durchgehend spezifische Gruppen — Roma, Osteuropäer, Ukrainer. Der ethnische Adressat ist nicht im Wort codiert, aber diskursiv konstitutiv: Nicht im Wort selbst, sondern in seiner Anwendungsgeschichte.
+*   ◐ **Quantifizierung:** Mit Tourismus-Metaphern — „Ansturm”, „Saison”, „Welle” — entsteht das Bild einer Flut, die das Sozialsystem überschwemmt. Die Metapher verwandelt Individuen in eine Naturgewalt.
 
 ---
 

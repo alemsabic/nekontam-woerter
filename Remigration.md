@@ -89,11 +89,11 @@ Ein Sozialstaat funktioniert nur als geschlossene Solidargemeinschaft. Wer ohne 
 
 ## Mechanismen
 
-*   ● **Euphemismus (dominant):** Ein wertneutraler, technokratisch klingender Begriff aus der Migrationssoziologie wird zweckentfremdet, um die Gewaltförmigkeit von Massendeportationen zu verschleiern. Die Abstraktion immunisiert gegen die menschliche Tragweite der Forderung.
-*   ● **Inversion (dominant):** Kehrt das Täter-Opfer-Verhältnis um. Durch die Umdeutung von Gewalt in „Rückwanderung“ erscheint die Zerstörung des sozialen Friedens als dessen Wiederherstellung — die Aggression als Notwehr.
-*   ● **Ethnisierung (dominant):** Macht kulturelle oder ethnische Zugehörigkeit zum alleinigen Kriterium für das Aufenthaltsrecht. Der Begriff entzieht Menschen ihre Individualität und reduziert sie auf ihre Herkunft.
-*   ◐ **Quantifizierung:** Behandelt Menschen als Verschiebemasse. Verknüpft mit Wassermetaphern (die „Flut“ umkehren), verstärkt das die Entmenschlichung durch Massenhaftigkeit.
-*   ◐ **Temporalisierung:** Erzeugt apokalyptischen Zeitdruck. Remigration wird als „letzte Chance“ vor dem demografischen Kollaps dargestellt — künstlicher Druck soll radikale Maßnahmen als alternativlos erscheinen lassen.
+*   ● **Euphemismus (dominant):** Das Präfix „Re-” suggeriert eine Korrektur — als sei Migration ein Irrtum, der sich rückgängig machen lässt. Der bürokratisch-neutrale Klang des Kompositums installiert Massendeportationen als Verwaltungsvorgang: rationell, geordnet, unaufgeregt.
+*   ● **Inversion (dominant):** Die Anwesenheit der Betroffenen gilt als Angriff — ihre Vertreibung als Notwehr. Das Wort verschiebt die Rollen, bevor irgendein Argument geprüft wird: der Deportierte erscheint als Aggressor, der Deportierende als Verteidigter.
+*   ● **Ethnisierung (dominant):** Aufenthaltsdauer, Staatsbürgerschaft, Lebensleistung werden irrelevant. Das Wort setzt Herkunft als einziges und endgültiges Kriterium für Zugehörigkeit — und macht es unverhandelbar.
+*   ◐ **Quantifizierung:** Menschen werden zur Verschiebemasse. Im Diskurs mit Wassermetaphern verknüpft — die „Flut” umkehren, den „Strom” wenden — entsteht das Bild einer anonymen Masse ohne individuelle Geschichten.
+*   ◐ **Temporalisierung:** Der Begriff wird regelmäßig mit apokalyptischem Zeitdruck kombiniert — „letzte Chance”, „demografischer Kollaps”, „jetzt oder nie”. **Zoom:** Nicht die Forderung selbst, sondern die Dringlichkeit ist das rhetorische Werkzeug. Wer den Ausnahmezustand deklariert, suspendiert die Abwägung: Unter Zeitdruck gelten andere Regeln. Die Dringlichkeit wird nicht beschrieben — sie wird produziert.
 
 ---
 
